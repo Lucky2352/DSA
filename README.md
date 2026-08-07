@@ -1,30 +1,3 @@
-# DSA 🚀 | Placement Prep with Lucky
-
-This repository is part of my **"Placement Prep with Lucky"** series, where I'm preparing for placements by solving DSA problems, building dev projects, and revising core CS subjects — one day at a time.
-
-This repo specifically tracks my **Data Structures & Algorithms** journey, following **Striver's A2Z DSA Sheet**.
-
----
-
-## 📌 About
-
-- 🧠 Solving problems from **Striver's A2Z Sheet**, topic by topic
-- ☕ Solutions written in **Java**
-- 📂 Each problem gets its own folder, named as `<problem-number>-<problem-slug>`
-- 📅 Updated regularly as part of my daily placement prep routine
-
----
-
-## 📁 Repository Structure
-
-```
-DSA/
-├── 1-two-sum/
-├── 25-reverse-nodes-in-k-group/
-├── 138-copy-list-with-random-pointer/
-└── ...
-```
-
 Each folder contains the Java solution file for that specific problem, along with any notes/approach I made while solving it.
 
 ---
@@ -37,6 +10,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1 | Two Sum | [`1-two-sum`](./1-two-sum) |
 | 25 | Reverse Nodes in k-Group | [`25-reverse-nodes-in-k-group`](./25-reverse-nodes-in-k-group) |
 | 138 | Copy List with Random Pointer | [`138-copy-list-with-random-pointer`](./138-copy-list-with-random-pointer) |
+<!-- PROBLEMS_TABLE_END -->
 
 ---
 
