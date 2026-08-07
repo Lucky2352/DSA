@@ -20,6 +20,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 154 | Find Minimum In Rotated Sorted Array Ii | [`154-find-minimum-in-rotated-sorted-array-ii`](./154-find-minimum-in-rotated-sorted-array-ii) |
 | 165 | Compare Version Numbers | [`165-compare-version-numbers`](./165-compare-version-numbers) |
 | 189 | Rotate Array | [`189-rotate-array`](./189-rotate-array) |
+| 202 | Happy Number | [`202-happy-number`](./202-happy-number) |
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
 | 374 | Guess Number Higher Or Lower | [`374-guess-number-higher-or-lower`](./374-guess-number-higher-or-lower) |
 | 387 | First Unique Character In A String | [`387-first-unique-character-in-a-string`](./387-first-unique-character-in-a-string) |
