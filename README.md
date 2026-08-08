@@ -27,6 +27,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 387 | First Unique Character In A String | [`387-first-unique-character-in-a-string`](./387-first-unique-character-in-a-string) |
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
+| 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
 | 940 | Fruit Into Baskets | [`940-fruit-into-baskets`](./940-fruit-into-baskets) |
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
