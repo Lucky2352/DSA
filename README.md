@@ -22,6 +22,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 189 | Rotate Array | [`189-rotate-array`](./189-rotate-array) |
 | 202 | Happy Number | [`202-happy-number`](./202-happy-number) |
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
+| 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
 | 374 | Guess Number Higher Or Lower | [`374-guess-number-higher-or-lower`](./374-guess-number-higher-or-lower) |
 | 387 | First Unique Character In A String | [`387-first-unique-character-in-a-string`](./387-first-unique-character-in-a-string) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
