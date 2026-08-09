@@ -9,7 +9,6 @@ class Solution {
         }
         if (i + 1 <= val) {
             count += recursion(i + 1, val,dp);
-            dp[i] = count;
         }
         if (i + 2 <= val) {
             count += recursion(i + 2, val,dp);
