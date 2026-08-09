@@ -15,6 +15,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 33 | Search In Rotated Sorted Array | [`33-search-in-rotated-sorted-array`](./33-search-in-rotated-sorted-array) |
 | 36 | Valid Sudoku | [`36-valid-sudoku`](./36-valid-sudoku) |
 | 50 | Powx N | [`50-powx-n`](./50-powx-n) |
+| 70 | Climbing Stairs | [`70-climbing-stairs`](./70-climbing-stairs) |
 | 78 | Subsets | [`78-subsets`](./78-subsets) |
 | 79 | Word Search | [`79-word-search`](./79-word-search) |
 | 138 | Copy List With Random Pointer | [`138-copy-list-with-random-pointer`](./138-copy-list-with-random-pointer) |
