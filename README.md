@@ -13,6 +13,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 25 | Reverse Nodes In K Group | [`25-reverse-nodes-in-k-group`](./25-reverse-nodes-in-k-group) |
 | 26 | Remove Duplicates From Sorted Array | [`26-remove-duplicates-from-sorted-array`](./26-remove-duplicates-from-sorted-array) |
 | 33 | Search In Rotated Sorted Array | [`33-search-in-rotated-sorted-array`](./33-search-in-rotated-sorted-array) |
+| 36 | Valid Sudoku | [`36-valid-sudoku`](./36-valid-sudoku) |
 | 50 | Powx N | [`50-powx-n`](./50-powx-n) |
 | 78 | Subsets | [`78-subsets`](./78-subsets) |
 | 79 | Word Search | [`79-word-search`](./79-word-search) |
