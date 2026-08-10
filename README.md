@@ -22,6 +22,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 154 | Find Minimum In Rotated Sorted Array Ii | [`154-find-minimum-in-rotated-sorted-array-ii`](./154-find-minimum-in-rotated-sorted-array-ii) |
 | 165 | Compare Version Numbers | [`165-compare-version-numbers`](./165-compare-version-numbers) |
 | 189 | Rotate Array | [`189-rotate-array`](./189-rotate-array) |
+| 198 | House Robber | [`198-house-robber`](./198-house-robber) |
 | 202 | Happy Number | [`202-happy-number`](./202-happy-number) |
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
 | 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
