@@ -1,26 +1,23 @@
 class Solution {
-    public static int recursion(int i, String s,int[] dp) {
-        if (i == s.length()) {
-            return 1;
-        }
-        if (s.charAt(i) == '0') {
+    public int numDecodings(String s) {
+        if (s.charAt(0) == '0') {
             return 0;
         }
-        if(dp[i] != 0)return dp[i];
-        int count = recursion(i + 1, s,dp);
-        if (i + 1 < s.length()) {
-            if (s.charAt(i) == '1') {
-                count += recursion(i + 2, s,dp);
+        int n = s.length();
+        int prev2 = 1;
+        int prev1 = s.charAt(n - 1) == '0' ? 0 : 1;
+        for (int i = n - 2; i >= 0; i--) {
+            int current = 0;
+            if (s.charAt(i) != '0') {
+                current += prev1;
             }
-            if (s.charAt(i) == '2' && s.charAt(i + 1) >= '0' && s.charAt(i + 1) <= '6') {
-                count += recursion(i + 2, s,dp);
+            int num = (s.charAt(i) - '0') * 10+ (s.charAt(i + 1) - '0');
+            if (num >= 10 && num <= 26) {
+                current += prev2;
             }
+            prev2 = prev1;
+            prev1 = current;
         }
-        dp[i] = count;
-        return count;
-    }
-    public int numDecodings(String s) {
-        int dp[] = new int[s.length()+1];
-        return recursion(0, s,dp);
+        return prev1;
     }
 }
