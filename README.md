@@ -30,6 +30,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 392 | Is Subsequence | [`392-is-subsequence`](./392-is-subsequence) |
 | 409 | Longest Palindrome | [`409-longest-palindrome`](./409-longest-palindrome) |
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
+| 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
 | 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
