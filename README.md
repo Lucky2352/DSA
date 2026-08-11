@@ -41,6 +41,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 907 | Koko Eating Bananas | [`907-koko-eating-bananas`](./907-koko-eating-bananas) |
 | 940 | Fruit Into Baskets | [`940-fruit-into-baskets`](./940-fruit-into-baskets) |
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
+| 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
 | 1217 | Relative Sort Array | [`1217-relative-sort-array`](./1217-relative-sort-array) |
 | 1444 | Number Of Steps To Reduce A Number To Zero | [`1444-number-of-steps-to-reduce-a-number-to-zero`](./1444-number-of-steps-to-reduce-a-number-to-zero) |
 | 1468 | Check If N And Its Double Exist | [`1468-check-if-n-and-its-double-exist`](./1468-check-if-n-and-its-double-exist) |
