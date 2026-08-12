@@ -1,34 +1,45 @@
 class Solution {
     public String minWindow(String s, String t) {
         if (t.length() > s.length()) return "";
-        Map<Character, Integer> map = new HashMap<>();
+
+        int[] map = new int[128];
+
         for (int k = 0; k < t.length(); k++) {
-            map.put(t.charAt(k), map.getOrDefault(t.charAt(k), 0) + 1);
+            map[t.charAt(k)]++;
         }
+
         int i = 0;
         int j = 0;
         int count = 0;
         StringBuilder sb = new StringBuilder("");
         int mini = Integer.MAX_VALUE;
+
         while (j < s.length()) {
-            if (map.getOrDefault(s.charAt(j), 0) > 0) {
+            if (map[s.charAt(j)] > 0) {
                 count++;
             }
-            map.put(s.charAt(j), map.getOrDefault(s.charAt(j), 0) - 1);
-            while(count == t.length()) {
+
+            map[s.charAt(j)]--;
+
+            while (count == t.length()) {
                 if (j - i + 1 < mini) {
                     mini = j - i + 1;
                     sb.setLength(0);
                     sb.append(s.substring(i, j + 1));
                 }
-                map.put(s.charAt(i), map.getOrDefault(s.charAt(i), 0) + 1);
-                if (map.get(s.charAt(i)) > 0) {
+
+                map[s.charAt(i)]++;
+
+                if (map[s.charAt(i)] > 0) {
                     count--;
                 }
+
                 i++;
             }
+
             j++;
         }
+
         return sb.toString();
     }
 }
