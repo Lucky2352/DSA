@@ -47,6 +47,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1444 | Number Of Steps To Reduce A Number To Zero | [`1444-number-of-steps-to-reduce-a-number-to-zero`](./1444-number-of-steps-to-reduce-a-number-to-zero) |
 | 1468 | Check If N And Its Double Exist | [`1468-check-if-n-and-its-double-exist`](./1468-check-if-n-and-its-double-exist) |
 | 2050 | Count Good Numbers | [`2050-count-good-numbers`](./2050-count-good-numbers) |
+| 3225 | Length Of Longest Subarray With At Most K Frequency | [`3225-length-of-longest-subarray-with-at-most-k-frequency`](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [`3236-smallest-missing-integer-greater-than-sequential-prefix-sum`](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 3626 | Smallest Divisible Digit Product I | [`3626-smallest-divisible-digit-product-i`](./3626-smallest-divisible-digit-product-i) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
