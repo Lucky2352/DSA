@@ -34,6 +34,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 387 | First Unique Character In A String | [`387-first-unique-character-in-a-string`](./387-first-unique-character-in-a-string) |
 | 392 | Is Subsequence | [`392-is-subsequence`](./392-is-subsequence) |
 | 409 | Longest Palindrome | [`409-longest-palindrome`](./409-longest-palindrome) |
+| 410 | Split Array Largest Sum | [`410-split-array-largest-sum`](./410-split-array-largest-sum) |
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
 | 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
