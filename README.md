@@ -38,6 +38,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
 | 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
+| 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
 | 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
 | 907 | Koko Eating Bananas | [`907-koko-eating-bananas`](./907-koko-eating-bananas) |
