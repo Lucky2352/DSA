@@ -16,6 +16,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 36 | Valid Sudoku | [`36-valid-sudoku`](./36-valid-sudoku) |
 | 39 | Combination Sum | [`39-combination-sum`](./39-combination-sum) |
 | 50 | Powx N | [`50-powx-n`](./50-powx-n) |
+| 51 | N Queens | [`51-n-queens`](./51-n-queens) |
 | 70 | Climbing Stairs | [`70-climbing-stairs`](./70-climbing-stairs) |
 | 76 | Minimum Window Substring | [`76-minimum-window-substring`](./76-minimum-window-substring) |
 | 78 | Subsets | [`78-subsets`](./78-subsets) |
