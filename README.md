@@ -24,6 +24,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 78 | Subsets | [`78-subsets`](./78-subsets) |
 | 79 | Word Search | [`79-word-search`](./79-word-search) |
 | 91 | Decode Ways | [`91-decode-ways`](./91-decode-ways) |
+| 93 | Restore Ip Addresses | [`93-restore-ip-addresses`](./93-restore-ip-addresses) |
 | 98 | Validate Binary Search Tree | [`98-validate-binary-search-tree`](./98-validate-binary-search-tree) |
 | 101 | Symmetric Tree | [`101-symmetric-tree`](./101-symmetric-tree) |
 | 113 | Path Sum Ii | [`113-path-sum-ii`](./113-path-sum-ii) |
