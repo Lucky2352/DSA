@@ -16,6 +16,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 36 | Valid Sudoku | [`36-valid-sudoku`](./36-valid-sudoku) |
 | 39 | Combination Sum | [`39-combination-sum`](./39-combination-sum) |
 | 46 | Permutations | [`46-permutations`](./46-permutations) |
+| 47 | Permutations Ii | [`47-permutations-ii`](./47-permutations-ii) |
 | 50 | Powx N | [`50-powx-n`](./50-powx-n) |
 | 51 | N Queens | [`51-n-queens`](./51-n-queens) |
 | 70 | Climbing Stairs | [`70-climbing-stairs`](./70-climbing-stairs) |
