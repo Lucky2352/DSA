@@ -49,6 +49,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
 | 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
+| 735 | Asteroid Collision | [`735-asteroid-collision`](./735-asteroid-collision) |
 | 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
 | 783 | Search In A Binary Search Tree | [`783-search-in-a-binary-search-tree`](./783-search-in-a-binary-search-tree) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
