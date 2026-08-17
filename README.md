@@ -57,6 +57,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1217 | Relative Sort Array | [`1217-relative-sort-array`](./1217-relative-sort-array) |
 | 1444 | Number Of Steps To Reduce A Number To Zero | [`1444-number-of-steps-to-reduce-a-number-to-zero`](./1444-number-of-steps-to-reduce-a-number-to-zero) |
 | 1468 | Check If N And Its Double Exist | [`1468-check-if-n-and-its-double-exist`](./1468-check-if-n-and-its-double-exist) |
+| 1646 | Kth Missing Positive Number | [`1646-kth-missing-positive-number`](./1646-kth-missing-positive-number) |
 | 1675 | Magnetic Force Between Two Balls | [`1675-magnetic-force-between-two-balls`](./1675-magnetic-force-between-two-balls) |
 | 2050 | Count Good Numbers | [`2050-count-good-numbers`](./2050-count-good-numbers) |
 | 2188 | Minimized Maximum Of Products Distributed To Any Store | [`2188-minimized-maximum-of-products-distributed-to-any-store`](./2188-minimized-maximum-of-products-distributed-to-any-store) |
