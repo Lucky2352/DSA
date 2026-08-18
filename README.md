@@ -56,6 +56,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 783 | Search In A Binary Search Tree | [`783-search-in-a-binary-search-tree`](./783-search-in-a-binary-search-tree) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
 | 907 | Koko Eating Bananas | [`907-koko-eating-bananas`](./907-koko-eating-bananas) |
+| 937 | Online Stock Span | [`937-online-stock-span`](./937-online-stock-span) |
 | 940 | Fruit Into Baskets | [`940-fruit-into-baskets`](./940-fruit-into-baskets) |
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
 | 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
