@@ -27,6 +27,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 76 | Minimum Window Substring | [`76-minimum-window-substring`](./76-minimum-window-substring) |
 | 78 | Subsets | [`78-subsets`](./78-subsets) |
 | 79 | Word Search | [`79-word-search`](./79-word-search) |
+| 84 | Largest Rectangle In Histogram | [`84-largest-rectangle-in-histogram`](./84-largest-rectangle-in-histogram) |
 | 91 | Decode Ways | [`91-decode-ways`](./91-decode-ways) |
 | 93 | Restore Ip Addresses | [`93-restore-ip-addresses`](./93-restore-ip-addresses) |
 | 98 | Validate Binary Search Tree | [`98-validate-binary-search-tree`](./98-validate-binary-search-tree) |
