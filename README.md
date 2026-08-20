@@ -82,6 +82,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 2294 | Minimum Time To Complete Trips | [`2294-minimum-time-to-complete-trips`](./2294-minimum-time-to-complete-trips) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | [`3225-length-of-longest-subarray-with-at-most-k-frequency`](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [`3236-smallest-missing-integer-greater-than-sequential-prefix-sum`](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| 3347 | Distribute Elements Into Two Arrays I | [`3347-distribute-elements-into-two-arrays-i`](./3347-distribute-elements-into-two-arrays-i) |
 | 3626 | Smallest Divisible Digit Product I | [`3626-smallest-divisible-digit-product-i`](./3626-smallest-divisible-digit-product-i) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
