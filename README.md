@@ -73,6 +73,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1444 | Number Of Steps To Reduce A Number To Zero | [`1444-number-of-steps-to-reduce-a-number-to-zero`](./1444-number-of-steps-to-reduce-a-number-to-zero) |
 | 1468 | Check If N And Its Double Exist | [`1468-check-if-n-and-its-double-exist`](./1468-check-if-n-and-its-double-exist) |
 | 1487 | Cinema Seat Allocation | [`1487-cinema-seat-allocation`](./1487-cinema-seat-allocation) |
+| 1620 | Check If Array Pairs Are Divisible By K | [`1620-check-if-array-pairs-are-divisible-by-k`](./1620-check-if-array-pairs-are-divisible-by-k) |
 | 1646 | Kth Missing Positive Number | [`1646-kth-missing-positive-number`](./1646-kth-missing-positive-number) |
 | 1675 | Magnetic Force Between Two Balls | [`1675-magnetic-force-between-two-balls`](./1675-magnetic-force-between-two-balls) |
 | 2000 | Minimum Speed To Arrive On Time | [`2000-minimum-speed-to-arrive-on-time`](./2000-minimum-speed-to-arrive-on-time) |
