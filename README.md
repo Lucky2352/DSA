@@ -86,6 +86,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [`3236-smallest-missing-integer-greater-than-sequential-prefix-sum`](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | 3347 | Distribute Elements Into Two Arrays I | [`3347-distribute-elements-into-two-arrays-i`](./3347-distribute-elements-into-two-arrays-i) |
 | 3626 | Smallest Divisible Digit Product I | [`3626-smallest-divisible-digit-product-i`](./3626-smallest-divisible-digit-product-i) |
+| 3918 | Check Divisibility By Digit Sum And Product | [`3918-check-divisibility-by-digit-sum-and-product`](./3918-check-divisibility-by-digit-sum-and-product) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
 | 4375 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | [`4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights`](./4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
