@@ -69,6 +69,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 937 | Online Stock Span | [`937-online-stock-span`](./937-online-stock-span) |
 | 940 | Fruit Into Baskets | [`940-fruit-into-baskets`](./940-fruit-into-baskets) |
 | 943 | Sum Of Subarray Minimums | [`943-sum-of-subarray-minimums`](./943-sum-of-subarray-minimums) |
+| 1036 | Rotting Oranges | [`1036-rotting-oranges`](./1036-rotting-oranges) |
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
 | 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
 | 1078 | Remove Outermost Parentheses | [`1078-remove-outermost-parentheses`](./1078-remove-outermost-parentheses) |
