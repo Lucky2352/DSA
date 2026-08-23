@@ -83,6 +83,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1850 | Minimum Length Of String After Deleting Similar Ends | [`1850-minimum-length-of-string-after-deleting-similar-ends`](./1850-minimum-length-of-string-after-deleting-similar-ends) |
 | 1894 | Merge Strings Alternately | [`1894-merge-strings-alternately`](./1894-merge-strings-alternately) |
 | 2000 | Minimum Speed To Arrive On Time | [`2000-minimum-speed-to-arrive-on-time`](./2000-minimum-speed-to-arrive-on-time) |
+| 2039 | Sum Game | [`2039-sum-game`](./2039-sum-game) |
 | 2050 | Count Good Numbers | [`2050-count-good-numbers`](./2050-count-good-numbers) |
 | 2188 | Minimized Maximum Of Products Distributed To Any Store | [`2188-minimized-maximum-of-products-distributed-to-any-store`](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | 2227 | Sum Of Subarray Ranges | [`2227-sum-of-subarray-ranges`](./2227-sum-of-subarray-ranges) |
