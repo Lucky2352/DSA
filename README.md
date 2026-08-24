@@ -76,6 +76,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
 | 1078 | Remove Outermost Parentheses | [`1078-remove-outermost-parentheses`](./1078-remove-outermost-parentheses) |
 | 1217 | Relative Sort Array | [`1217-relative-sort-array`](./1217-relative-sort-array) |
+| 1354 | Find Players With Zero Or One Losses | [`1354-find-players-with-zero-or-one-losses`](./1354-find-players-with-zero-or-one-losses) |
 | 1444 | Number Of Steps To Reduce A Number To Zero | [`1444-number-of-steps-to-reduce-a-number-to-zero`](./1444-number-of-steps-to-reduce-a-number-to-zero) |
 | 1468 | Check If N And Its Double Exist | [`1468-check-if-n-and-its-double-exist`](./1468-check-if-n-and-its-double-exist) |
 | 1487 | Cinema Seat Allocation | [`1487-cinema-seat-allocation`](./1487-cinema-seat-allocation) |
