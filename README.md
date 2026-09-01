@@ -94,6 +94,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 2188 | Minimized Maximum Of Products Distributed To Any Store | [`2188-minimized-maximum-of-products-distributed-to-any-store`](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | 2227 | Sum Of Subarray Ranges | [`2227-sum-of-subarray-ranges`](./2227-sum-of-subarray-ranges) |
 | 2294 | Minimum Time To Complete Trips | [`2294-minimum-time-to-complete-trips`](./2294-minimum-time-to-complete-trips) |
+| 2470 | Removing Stars From A String | [`2470-removing-stars-from-a-string`](./2470-removing-stars-from-a-string) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | [`2552-maximum-sum-of-distinct-subarrays-with-length-k`](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2793 | Count The Number Of Complete Components | [`2793-count-the-number-of-complete-components`](./2793-count-the-number-of-complete-components) |
 | 3212 | Count The Number Of Good Partitions | [`3212-count-the-number-of-good-partitions`](./3212-count-the-number-of-good-partitions) |
