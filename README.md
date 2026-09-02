@@ -105,6 +105,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 3386 | Find Edges In Shortest Paths | [`3386-find-edges-in-shortest-paths`](./3386-find-edges-in-shortest-paths) |
 | 3626 | Smallest Divisible Digit Product I | [`3626-smallest-divisible-digit-product-i`](./3626-smallest-divisible-digit-product-i) |
 | 3918 | Check Divisibility By Digit Sum And Product | [`3918-check-divisibility-by-digit-sum-and-product`](./3918-check-divisibility-by-digit-sum-and-product) |
+| 3999 | Minimum Operations To Transform String | [`3999-minimum-operations-to-transform-string`](./3999-minimum-operations-to-transform-string) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4080 | Smallest Missing Multiple Of K | [`4080-smallest-missing-multiple-of-k`](./4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
