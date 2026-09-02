@@ -107,6 +107,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4080 | Smallest Missing Multiple Of K | [`4080-smallest-missing-multiple-of-k`](./4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
+| 4256 | Construct Uniform Parity Array I | [`4256-construct-uniform-parity-array-i`](./4256-construct-uniform-parity-array-i) |
 | 4375 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | [`4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights`](./4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | 4378 | Nearest Available Drone | [`4378-nearest-available-drone`](./4378-nearest-available-drone) |
 <!-- PROBLEMS_TABLE_END -->
