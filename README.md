@@ -31,6 +31,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 79 | Word Search | [`79-word-search`](./79-word-search) |
 | 84 | Largest Rectangle In Histogram | [`84-largest-rectangle-in-histogram`](./84-largest-rectangle-in-histogram) |
 | 85 | Maximal Rectangle | [`85-maximal-rectangle`](./85-maximal-rectangle) |
+| 90 | Subsets Ii | [`90-subsets-ii`](./90-subsets-ii) |
 | 91 | Decode Ways | [`91-decode-ways`](./91-decode-ways) |
 | 93 | Restore Ip Addresses | [`93-restore-ip-addresses`](./93-restore-ip-addresses) |
 | 98 | Validate Binary Search Tree | [`98-validate-binary-search-tree`](./98-validate-binary-search-tree) |
