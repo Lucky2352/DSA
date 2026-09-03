@@ -34,6 +34,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 90 | Subsets Ii | [`90-subsets-ii`](./90-subsets-ii) |
 | 91 | Decode Ways | [`91-decode-ways`](./91-decode-ways) |
 | 93 | Restore Ip Addresses | [`93-restore-ip-addresses`](./93-restore-ip-addresses) |
+| 94 | Binary Tree Inorder Traversal | [`94-binary-tree-inorder-traversal`](./94-binary-tree-inorder-traversal) |
 | 98 | Validate Binary Search Tree | [`98-validate-binary-search-tree`](./98-validate-binary-search-tree) |
 | 101 | Symmetric Tree | [`101-symmetric-tree`](./101-symmetric-tree) |
 | 113 | Path Sum Ii | [`113-path-sum-ii`](./113-path-sum-ii) |
