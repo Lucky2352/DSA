@@ -37,6 +37,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 94 | Binary Tree Inorder Traversal | [`94-binary-tree-inorder-traversal`](./94-binary-tree-inorder-traversal) |
 | 98 | Validate Binary Search Tree | [`98-validate-binary-search-tree`](./98-validate-binary-search-tree) |
 | 101 | Symmetric Tree | [`101-symmetric-tree`](./101-symmetric-tree) |
+| 102 | Binary Tree Level Order Traversal | [`102-binary-tree-level-order-traversal`](./102-binary-tree-level-order-traversal) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [`103-binary-tree-zigzag-level-order-traversal`](./103-binary-tree-zigzag-level-order-traversal) |
 | 113 | Path Sum Ii | [`113-path-sum-ii`](./113-path-sum-ii) |
 | 137 | Single Number Ii | [`137-single-number-ii`](./137-single-number-ii) |
