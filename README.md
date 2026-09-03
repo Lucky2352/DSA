@@ -63,6 +63,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
 | 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 542 | 01 Matrix | [`542-01-matrix`](./542-01-matrix) |
+| 543 | Diameter Of Binary Tree | [`543-diameter-of-binary-tree`](./543-diameter-of-binary-tree) |
 | 547 | Number Of Provinces | [`547-number-of-provinces`](./547-number-of-provinces) |
 | 567 | Permutation In String | [`567-permutation-in-string`](./567-permutation-in-string) |
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
