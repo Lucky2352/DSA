@@ -47,6 +47,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 189 | Rotate Array | [`189-rotate-array`](./189-rotate-array) |
 | 198 | House Robber | [`198-house-robber`](./198-house-robber) |
 | 202 | Happy Number | [`202-happy-number`](./202-happy-number) |
+| 215 | Kth Largest Element In An Array | [`215-kth-largest-element-in-an-array`](./215-kth-largest-element-in-an-array) |
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
 | 223 | Rectangle Area | [`223-rectangle-area`](./223-rectangle-area) |
 | 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
