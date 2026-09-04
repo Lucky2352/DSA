@@ -53,6 +53,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
 | 239 | Sliding Window Maximum | [`239-sliding-window-maximum`](./239-sliding-window-maximum) |
 | 279 | Perfect Squares | [`279-perfect-squares`](./279-perfect-squares) |
+| 300 | Longest Increasing Subsequence | [`300-longest-increasing-subsequence`](./300-longest-increasing-subsequence) |
 | 374 | Guess Number Higher Or Lower | [`374-guess-number-higher-or-lower`](./374-guess-number-higher-or-lower) |
 | 387 | First Unique Character In A String | [`387-first-unique-character-in-a-string`](./387-first-unique-character-in-a-string) |
 | 392 | Is Subsequence | [`392-is-subsequence`](./392-is-subsequence) |
