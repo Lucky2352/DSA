@@ -20,6 +20,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 39 | Combination Sum | [`39-combination-sum`](./39-combination-sum) |
 | 42 | Trapping Rain Water | [`42-trapping-rain-water`](./42-trapping-rain-water) |
 | 43 | Multiply Strings | [`43-multiply-strings`](./43-multiply-strings) |
+| 44 | Wildcard Matching | [`44-wildcard-matching`](./44-wildcard-matching) |
 | 46 | Permutations | [`46-permutations`](./46-permutations) |
 | 47 | Permutations Ii | [`47-permutations-ii`](./47-permutations-ii) |
 | 50 | Powx N | [`50-powx-n`](./50-powx-n) |
