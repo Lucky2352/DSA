@@ -1,28 +1,22 @@
 class Solution {
-    List<TreeNode> path = new ArrayList<>();
-    public void dfs(TreeNode root, TreeNode target, List<TreeNode> temp) {
-        if (root == null) return;
-        temp.add(root);
-        if (root == target) {
-            path = new ArrayList<>(temp);
-            return;
+    public TreeNode dfs(TreeNode root, TreeNode t1,TreeNode t2) {
+        if (root == null) return null;
+        if (root == t1){
+            return root;
         }
-        dfs(root.left, target, temp);
-        dfs(root.right, target, temp);
-        temp.remove(temp.size() - 1);
+        if (root == t2){
+            return root;
+        }
+        TreeNode left = dfs(root.left, t1, t2);
+        TreeNode right = dfs(root.right, t1, t2);
+        if(left != null && right != null)return root;
+        if(left != null){
+            return left;
+        }else{
+            return right;
+        }
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        List<TreeNode> pathP = new ArrayList<>();
-        List<TreeNode> pathQ = new ArrayList<>();
-        dfs(root, p, pathP);
-        pathP = path;
-        path = new ArrayList<>();
-        dfs(root, q, pathQ);
-        pathQ = path;
-        int i = 0;
-        while (i < pathP.size() && i < pathQ.size() && pathP.get(i) == pathQ.get(i)) {
-            i++;
-        }
-        return pathP.get(i - 1);
+        return dfs(root,p,q);
     }
 }
