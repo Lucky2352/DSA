@@ -67,6 +67,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 454 | 4sum Ii | [`454-4sum-ii`](./454-4sum-ii) |
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
 | 516 | Longest Palindromic Subsequence | [`516-longest-palindromic-subsequence`](./516-longest-palindromic-subsequence) |
+| 539 | Minimum Time Difference | [`539-minimum-time-difference`](./539-minimum-time-difference) |
 | 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 542 | 01 Matrix | [`542-01-matrix`](./542-01-matrix) |
 | 543 | Diameter Of Binary Tree | [`543-diameter-of-binary-tree`](./543-diameter-of-binary-tree) |
