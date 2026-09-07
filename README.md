@@ -53,6 +53,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
 | 223 | Rectangle Area | [`223-rectangle-area`](./223-rectangle-area) |
 | 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
+| 236 | Lowest Common Ancestor Of A Binary Tree | [`236-lowest-common-ancestor-of-a-binary-tree`](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 239 | Sliding Window Maximum | [`239-sliding-window-maximum`](./239-sliding-window-maximum) |
 | 279 | Perfect Squares | [`279-perfect-squares`](./279-perfect-squares) |
 | 300 | Longest Increasing Subsequence | [`300-longest-increasing-subsequence`](./300-longest-increasing-subsequence) |
