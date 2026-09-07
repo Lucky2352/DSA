@@ -73,6 +73,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 547 | Number Of Provinces | [`547-number-of-provinces`](./547-number-of-provinces) |
 | 567 | Permutation In String | [`567-permutation-in-string`](./567-permutation-in-string) |
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
+| 662 | Maximum Width Of Binary Tree | [`662-maximum-width-of-binary-tree`](./662-maximum-width-of-binary-tree) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
 | 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
 | 733 | Flood Fill | [`733-flood-fill`](./733-flood-fill) |
