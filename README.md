@@ -127,6 +127,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4080 | Smallest Missing Multiple Of K | [`4080-smallest-missing-multiple-of-k`](./4080-smallest-missing-multiple-of-k) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
+| 4245 | Count Commas In Range | [`4245-count-commas-in-range`](./4245-count-commas-in-range) |
 | 4256 | Construct Uniform Parity Array I | [`4256-construct-uniform-parity-array-i`](./4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | [`4258-construct-uniform-parity-array-ii`](./4258-construct-uniform-parity-array-ii) |
 | 4284 | Smallest Stable Index I | [`4284-smallest-stable-index-i`](./4284-smallest-stable-index-i) |
