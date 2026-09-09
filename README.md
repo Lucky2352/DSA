@@ -11,6 +11,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 3 | Longest Substring Without Repeating Characters | [`3-longest-substring-without-repeating-characters`](./3-longest-substring-without-repeating-characters) |
 | 4 | Median Of Two Sorted Arrays | [`4-median-of-two-sorted-arrays`](./4-median-of-two-sorted-arrays) |
 | 17 | Letter Combinations Of A Phone Number | [`17-letter-combinations-of-a-phone-number`](./17-letter-combinations-of-a-phone-number) |
+| 22 | Generate Parentheses | [`22-generate-parentheses`](./22-generate-parentheses) |
 | 23 | Merge K Sorted Lists | [`23-merge-k-sorted-lists`](./23-merge-k-sorted-lists) |
 | 24 | Swap Nodes In Pairs | [`24-swap-nodes-in-pairs`](./24-swap-nodes-in-pairs) |
 | 25 | Reverse Nodes In K Group | [`25-reverse-nodes-in-k-group`](./25-reverse-nodes-in-k-group) |
