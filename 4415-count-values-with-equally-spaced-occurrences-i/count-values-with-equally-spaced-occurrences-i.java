@@ -1,22 +1,27 @@
 class Solution {
     public int countSpecialIntegers(int[] nums) {
-        Map<Integer,List<Integer>> map = new HashMap<>();
-        for(int i = 0; i < nums.length; i++){
-            if(map.containsKey(nums[i])){
-                List<Integer> temp = map.get(nums[i]);
-                temp.add(i);
-            }else{
-                List<Integer> temp = new ArrayList<>();
-                temp.add(i);
-                map.put(nums[i], temp);
-            }
+        int[] freq = new int[101];
+        for(int i = 0;i < nums.length;i++){
+            freq[nums[i]]++;
         }
         int count = 0;
-        for(Map.Entry<Integer,List<Integer>> entry : map.entrySet()){
-            List<Integer> list = entry.getValue();
-            if(list.size() != 3) continue;
-            if(list.get(1) - list.get(0) == 
-               list.get(2) - list.get(1)){
+        for(int J = 1;J <= 100;J++){
+            if(freq[J] != 3) continue;
+            int i1 = -1;
+            int i2 = -1;
+            int i3 = -1;
+            for(int i = 0;i < nums.length;i++){
+                if(nums[i] == J){
+                    if(i1 == -1){
+                        i1 = i;
+                    }else if(i2 == -1){
+                        i2 = i;
+                    }else{
+                        i3 = i;
+                    }
+                }
+            }
+            if(i2 - i1 == i3 - i2){
                 count++;
             }
         }
