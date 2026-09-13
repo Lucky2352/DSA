@@ -29,6 +29,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 51 | N Queens | [`51-n-queens`](./51-n-queens) |
 | 60 | Permutation Sequence | [`60-permutation-sequence`](./60-permutation-sequence) |
 | 70 | Climbing Stairs | [`70-climbing-stairs`](./70-climbing-stairs) |
+| 74 | Search A 2d Matrix | [`74-search-a-2d-matrix`](./74-search-a-2d-matrix) |
 | 76 | Minimum Window Substring | [`76-minimum-window-substring`](./76-minimum-window-substring) |
 | 78 | Subsets | [`78-subsets`](./78-subsets) |
 | 79 | Word Search | [`79-word-search`](./79-word-search) |
