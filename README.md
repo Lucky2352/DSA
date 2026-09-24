@@ -81,6 +81,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 567 | Permutation In String | [`567-permutation-in-string`](./567-permutation-in-string) |
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
 | 662 | Maximum Width Of Binary Tree | [`662-maximum-width-of-binary-tree`](./662-maximum-width-of-binary-tree) |
+| 677 | Map Sum Pairs | [`677-map-sum-pairs`](./677-map-sum-pairs) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
 | 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
 | 719 | Find K Th Smallest Pair Distance | [`719-find-k-th-smallest-pair-distance`](./719-find-k-th-smallest-pair-distance) |
