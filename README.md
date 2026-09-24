@@ -68,6 +68,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 402 | Remove K Digits | [`402-remove-k-digits`](./402-remove-k-digits) |
 | 409 | Longest Palindrome | [`409-longest-palindrome`](./409-longest-palindrome) |
 | 410 | Split Array Largest Sum | [`410-split-array-largest-sum`](./410-split-array-largest-sum) |
+| 442 | Find All Duplicates In An Array | [`442-find-all-duplicates-in-an-array`](./442-find-all-duplicates-in-an-array) |
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
 | 454 | 4sum Ii | [`454-4sum-ii`](./454-4sum-ii) |
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
