@@ -85,6 +85,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
 | 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
 | 719 | Find K Th Smallest Pair Distance | [`719-find-k-th-smallest-pair-distance`](./719-find-k-th-smallest-pair-distance) |
+| 720 | Longest Word In Dictionary | [`720-longest-word-in-dictionary`](./720-longest-word-in-dictionary) |
 | 733 | Flood Fill | [`733-flood-fill`](./733-flood-fill) |
 | 735 | Asteroid Collision | [`735-asteroid-collision`](./735-asteroid-collision) |
 | 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
