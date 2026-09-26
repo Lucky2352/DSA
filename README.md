@@ -108,6 +108,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
 | 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
 | 1078 | Remove Outermost Parentheses | [`1078-remove-outermost-parentheses`](./1078-remove-outermost-parentheses) |
+| 1153 | Product Sales Analysis I | [`1153-product-sales-analysis-i`](./1153-product-sales-analysis-i) |
 | 1217 | Relative Sort Array | [`1217-relative-sort-array`](./1217-relative-sort-array) |
 | 1236 | N Th Tribonacci Number | [`1236-n-th-tribonacci-number`](./1236-n-th-tribonacci-number) |
 | 1258 | Article Views I | [`1258-article-views-i`](./1258-article-views-i) |
