@@ -162,6 +162,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4378 | Nearest Available Drone | [`4378-nearest-available-drone`](./4378-nearest-available-drone) |
 | 4414 | Count Values With Equally Spaced Occurrences Ii | [`4414-count-values-with-equally-spaced-occurrences-ii`](./4414-count-values-with-equally-spaced-occurrences-ii) |
 | 4415 | Count Values With Equally Spaced Occurrences I | [`4415-count-values-with-equally-spaced-occurrences-i`](./4415-count-values-with-equally-spaced-occurrences-i) |
+| 4418 | Number Of Intersecting Interval Pairs I | [`4418-number-of-intersecting-interval-pairs-i`](./4418-number-of-intersecting-interval-pairs-i) |
 <!-- PROBLEMS_TABLE_END -->
 
 ---
