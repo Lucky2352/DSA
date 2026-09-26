@@ -122,6 +122,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1798 | Max Number Of K Sum Pairs | [`1798-max-number-of-k-sum-pairs`](./1798-max-number-of-k-sum-pairs) |
 | 1850 | Minimum Length Of String After Deleting Similar Ends | [`1850-minimum-length-of-string-after-deleting-similar-ends`](./1850-minimum-length-of-string-after-deleting-similar-ends) |
 | 1894 | Merge Strings Alternately | [`1894-merge-strings-alternately`](./1894-merge-strings-alternately) |
+| 1934 | Evaluate The Bracket Pairs Of A String | [`1934-evaluate-the-bracket-pairs-of-a-string`](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | 2000 | Minimum Speed To Arrive On Time | [`2000-minimum-speed-to-arrive-on-time`](./2000-minimum-speed-to-arrive-on-time) |
 | 2039 | Sum Game | [`2039-sum-game`](./2039-sum-game) |
 | 2050 | Count Good Numbers | [`2050-count-good-numbers`](./2050-count-good-numbers) |
