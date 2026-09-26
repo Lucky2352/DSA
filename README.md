@@ -82,6 +82,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 543 | Diameter Of Binary Tree | [`543-diameter-of-binary-tree`](./543-diameter-of-binary-tree) |
 | 547 | Number Of Provinces | [`547-number-of-provinces`](./547-number-of-provinces) |
 | 567 | Permutation In String | [`567-permutation-in-string`](./567-permutation-in-string) |
+| 577 | Employee Bonus | [`577-employee-bonus`](./577-employee-bonus) |
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
 | 595 | Big Countries | [`595-big-countries`](./595-big-countries) |
 | 662 | Maximum Width Of Binary Tree | [`662-maximum-width-of-binary-tree`](./662-maximum-width-of-binary-tree) |
