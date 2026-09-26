@@ -17,13 +17,8 @@ class Solution {
                     temp.append(s.charAt(j));
                     j++;
                 }
-                String check = temp.toString();
+                sb.append(map.getOrDefault(temp.toString(), "?"));
                 i = j + 1;
-                if(map.containsKey(check)){
-                    sb.append(map.get(check));
-                }else{
-                    sb.append("?");
-                }
             }else{
                 sb.append(s.charAt(i));
                 i++;
