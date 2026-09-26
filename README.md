@@ -122,6 +122,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1675 | Magnetic Force Between Two Balls | [`1675-magnetic-force-between-two-balls`](./1675-magnetic-force-between-two-balls) |
 | 1776 | Minimum Operations To Reduce X To Zero | [`1776-minimum-operations-to-reduce-x-to-zero`](./1776-minimum-operations-to-reduce-x-to-zero) |
 | 1798 | Max Number Of K Sum Pairs | [`1798-max-number-of-k-sum-pairs`](./1798-max-number-of-k-sum-pairs) |
+| 1827 | Invalid Tweets | [`1827-invalid-tweets`](./1827-invalid-tweets) |
 | 1850 | Minimum Length Of String After Deleting Similar Ends | [`1850-minimum-length-of-string-after-deleting-similar-ends`](./1850-minimum-length-of-string-after-deleting-similar-ends) |
 | 1894 | Merge Strings Alternately | [`1894-merge-strings-alternately`](./1894-merge-strings-alternately) |
 | 1934 | Evaluate The Bracket Pairs Of A String | [`1934-evaluate-the-bracket-pairs-of-a-string`](./1934-evaluate-the-bracket-pairs-of-a-string) |
