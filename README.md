@@ -85,6 +85,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 577 | Employee Bonus | [`577-employee-bonus`](./577-employee-bonus) |
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
 | 595 | Big Countries | [`595-big-countries`](./595-big-countries) |
+| 620 | Not Boring Movies | [`620-not-boring-movies`](./620-not-boring-movies) |
 | 662 | Maximum Width Of Binary Tree | [`662-maximum-width-of-binary-tree`](./662-maximum-width-of-binary-tree) |
 | 677 | Map Sum Pairs | [`677-map-sum-pairs`](./677-map-sum-pairs) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
