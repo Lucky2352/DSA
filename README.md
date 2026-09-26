@@ -52,6 +52,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 151 | Reverse Words In A String | [`151-reverse-words-in-a-string`](./151-reverse-words-in-a-string) |
 | 154 | Find Minimum In Rotated Sorted Array Ii | [`154-find-minimum-in-rotated-sorted-array-ii`](./154-find-minimum-in-rotated-sorted-array-ii) |
 | 165 | Compare Version Numbers | [`165-compare-version-numbers`](./165-compare-version-numbers) |
+| 176 | Second Highest Salary | [`176-second-highest-salary`](./176-second-highest-salary) |
 | 189 | Rotate Array | [`189-rotate-array`](./189-rotate-array) |
 | 197 | Rising Temperature | [`197-rising-temperature`](./197-rising-temperature) |
 | 198 | House Robber | [`198-house-robber`](./198-house-robber) |
