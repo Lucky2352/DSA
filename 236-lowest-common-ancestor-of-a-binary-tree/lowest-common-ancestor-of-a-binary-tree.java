@@ -9,17 +9,17 @@
  */
 class Solution {
     public static TreeNode dfs(TreeNode root, TreeNode t1, TreeNode t2){
-        if(root == null)return root;
-        if(root == t1)return root;
+        if(root == null)return null;
+        if(root == t1) return root;
         if(root == t2)return root;
+        
         TreeNode left = dfs(root.left,t1,t2);
         TreeNode right = dfs(root.right,t1,t2);
         if(left != null && right != null)return root;
-        if(left != null)return left;
+        if(left == null)return right;
         else{
-            return right;
+            return left;
         }
-
     }
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         return dfs(root,p,q);
