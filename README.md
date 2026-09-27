@@ -46,6 +46,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 101 | Symmetric Tree | [`101-symmetric-tree`](./101-symmetric-tree) |
 | 102 | Binary Tree Level Order Traversal | [`102-binary-tree-level-order-traversal`](./102-binary-tree-level-order-traversal) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [`103-binary-tree-zigzag-level-order-traversal`](./103-binary-tree-zigzag-level-order-traversal) |
+| 110 | Balanced Binary Tree | [`110-balanced-binary-tree`](./110-balanced-binary-tree) |
 | 113 | Path Sum Ii | [`113-path-sum-ii`](./113-path-sum-ii) |
 | 137 | Single Number Ii | [`137-single-number-ii`](./137-single-number-ii) |
 | 138 | Copy List With Random Pointer | [`138-copy-list-with-random-pointer`](./138-copy-list-with-random-pointer) |
