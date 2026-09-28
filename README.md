@@ -72,6 +72,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 239 | Sliding Window Maximum | [`239-sliding-window-maximum`](./239-sliding-window-maximum) |
 | 257 | Binary Tree Paths | [`257-binary-tree-paths`](./257-binary-tree-paths) |
 | 279 | Perfect Squares | [`279-perfect-squares`](./279-perfect-squares) |
+| 297 | Serialize And Deserialize Binary Tree | [`297-serialize-and-deserialize-binary-tree`](./297-serialize-and-deserialize-binary-tree) |
 | 300 | Longest Increasing Subsequence | [`300-longest-increasing-subsequence`](./300-longest-increasing-subsequence) |
 | 350 | Intersection Of Two Arrays Ii | [`350-intersection-of-two-arrays-ii`](./350-intersection-of-two-arrays-ii) |
 | 374 | Guess Number Higher Or Lower | [`374-guess-number-higher-or-lower`](./374-guess-number-higher-or-lower) |
