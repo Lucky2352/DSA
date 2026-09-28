@@ -78,6 +78,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 410 | Split Array Largest Sum | [`410-split-array-largest-sum`](./410-split-array-largest-sum) |
 | 442 | Find All Duplicates In An Array | [`442-find-all-duplicates-in-an-array`](./442-find-all-duplicates-in-an-array) |
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
+| 449 | Serialize And Deserialize Bst | [`449-serialize-and-deserialize-bst`](./449-serialize-and-deserialize-bst) |
 | 454 | 4sum Ii | [`454-4sum-ii`](./454-4sum-ii) |
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
 | 516 | Longest Palindromic Subsequence | [`516-longest-palindromic-subsequence`](./516-longest-palindromic-subsequence) |
