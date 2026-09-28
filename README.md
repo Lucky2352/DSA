@@ -130,6 +130,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1646 | Kth Missing Positive Number | [`1646-kth-missing-positive-number`](./1646-kth-missing-positive-number) |
 | 1670 | Patients With A Condition | [`1670-patients-with-a-condition`](./1670-patients-with-a-condition) |
 | 1675 | Magnetic Force Between Two Balls | [`1675-magnetic-force-between-two-balls`](./1675-magnetic-force-between-two-balls) |
+| 1737 | Maximum Nesting Depth Of The Parentheses | [`1737-maximum-nesting-depth-of-the-parentheses`](./1737-maximum-nesting-depth-of-the-parentheses) |
 | 1776 | Minimum Operations To Reduce X To Zero | [`1776-minimum-operations-to-reduce-x-to-zero`](./1776-minimum-operations-to-reduce-x-to-zero) |
 | 1798 | Max Number Of K Sum Pairs | [`1798-max-number-of-k-sum-pairs`](./1798-max-number-of-k-sum-pairs) |
 | 1827 | Invalid Tweets | [`1827-invalid-tweets`](./1827-invalid-tweets) |
