@@ -137,6 +137,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1827 | Invalid Tweets | [`1827-invalid-tweets`](./1827-invalid-tweets) |
 | 1850 | Minimum Length Of String After Deleting Similar Ends | [`1850-minimum-length-of-string-after-deleting-similar-ends`](./1850-minimum-length-of-string-after-deleting-similar-ends) |
 | 1894 | Merge Strings Alternately | [`1894-merge-strings-alternately`](./1894-merge-strings-alternately) |
+| 1908 | Recyclable And Low Fat Products | [`1908-recyclable-and-low-fat-products`](./1908-recyclable-and-low-fat-products) |
 | 1934 | Evaluate The Bracket Pairs Of A String | [`1934-evaluate-the-bracket-pairs-of-a-string`](./1934-evaluate-the-bracket-pairs-of-a-string) |
 | 2000 | Minimum Speed To Arrive On Time | [`2000-minimum-speed-to-arrive-on-time`](./2000-minimum-speed-to-arrive-on-time) |
 | 2039 | Sum Game | [`2039-sum-game`](./2039-sum-game) |
