@@ -63,6 +63,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 202 | Happy Number | [`202-happy-number`](./202-happy-number) |
 | 215 | Kth Largest Element In An Array | [`215-kth-largest-element-in-an-array`](./215-kth-largest-element-in-an-array) |
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
+| 222 | Count Complete Tree Nodes | [`222-count-complete-tree-nodes`](./222-count-complete-tree-nodes) |
 | 223 | Rectangle Area | [`223-rectangle-area`](./223-rectangle-area) |
 | 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | [`236-lowest-common-ancestor-of-a-binary-tree`](./236-lowest-common-ancestor-of-a-binary-tree) |
