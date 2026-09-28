@@ -50,6 +50,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 111 | Minimum Depth Of Binary Tree | [`111-minimum-depth-of-binary-tree`](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | [`112-path-sum`](./112-path-sum) |
 | 113 | Path Sum Ii | [`113-path-sum-ii`](./113-path-sum-ii) |
+| 114 | Flatten Binary Tree To Linked List | [`114-flatten-binary-tree-to-linked-list`](./114-flatten-binary-tree-to-linked-list) |
 | 124 | Binary Tree Maximum Path Sum | [`124-binary-tree-maximum-path-sum`](./124-binary-tree-maximum-path-sum) |
 | 137 | Single Number Ii | [`137-single-number-ii`](./137-single-number-ii) |
 | 138 | Copy List With Random Pointer | [`138-copy-list-with-random-pointer`](./138-copy-list-with-random-pointer) |
