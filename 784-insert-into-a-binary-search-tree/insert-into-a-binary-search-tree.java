@@ -14,10 +14,26 @@
  * }
  */
 class Solution {
+    public static void newTree(TreeNode root,int val,TreeNode parent,boolean flag){
+        if(root == null){
+            if(flag){
+                parent.left = new TreeNode(val);
+            }else{
+                parent.right = new TreeNode(val);
+            }
+            return;
+        }
+        if(root.val > val) newTree(root.left, val,root,true);
+        else newTree(root.right, val,root,false);
+
+    }
     public TreeNode insertIntoBST(TreeNode root, int val) {
-        if(root == null) return new TreeNode(val);
-        if(root.val > val) root.left = insertIntoBST(root.left, val);
-        else root.right = insertIntoBST(root.right, val);
+        // if(root == null) return new TreeNode(val);
+        // if(root.val > val) root.left = insertIntoBST(root.left, val);
+        // else root.right = insertIntoBST(root.right, val);
+        // return root;
+        if(root == null)return new TreeNode(val);
+        newTree(root,val,root,true);
         return root;
     }
 }
