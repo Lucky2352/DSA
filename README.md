@@ -67,6 +67,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 222 | Count Complete Tree Nodes | [`222-count-complete-tree-nodes`](./222-count-complete-tree-nodes) |
 | 223 | Rectangle Area | [`223-rectangle-area`](./223-rectangle-area) |
 | 225 | Implement Stack Using Queues | [`225-implement-stack-using-queues`](./225-implement-stack-using-queues) |
+| 230 | Kth Smallest Element In A Bst | [`230-kth-smallest-element-in-a-bst`](./230-kth-smallest-element-in-a-bst) |
 | 235 | Lowest Common Ancestor Of A Binary Search Tree | [`235-lowest-common-ancestor-of-a-binary-search-tree`](./235-lowest-common-ancestor-of-a-binary-search-tree) |
 | 236 | Lowest Common Ancestor Of A Binary Tree | [`236-lowest-common-ancestor-of-a-binary-tree`](./236-lowest-common-ancestor-of-a-binary-tree) |
 | 239 | Sliding Window Maximum | [`239-sliding-window-maximum`](./239-sliding-window-maximum) |
