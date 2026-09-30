@@ -85,6 +85,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 442 | Find All Duplicates In An Array | [`442-find-all-duplicates-in-an-array`](./442-find-all-duplicates-in-an-array) |
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
 | 449 | Serialize And Deserialize Bst | [`449-serialize-and-deserialize-bst`](./449-serialize-and-deserialize-bst) |
+| 450 | Delete Node In A Bst | [`450-delete-node-in-a-bst`](./450-delete-node-in-a-bst) |
 | 454 | 4sum Ii | [`454-4sum-ii`](./454-4sum-ii) |
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
 | 515 | Find Largest Value In Each Tree Row | [`515-find-largest-value-in-each-tree-row`](./515-find-largest-value-in-each-tree-row) |
