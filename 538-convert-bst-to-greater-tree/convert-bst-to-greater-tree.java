@@ -15,15 +15,15 @@
  */
 class Solution {
     int cur = 0;
-    public void traverse(TreeNode root){
-        if(root == null)return;
+    public void traverse(TreeNode root) {
+        if(root == null) return;
         traverse(root.right);
         cur += root.val;
-         root.val  = cur;
+        root.val = cur;
         traverse(root.left);
     }
     public TreeNode convertBST(TreeNode root) {
-        if(root == null)return root;
+        if(root == null) return root;
         traverse(root);
         return root;
     }
