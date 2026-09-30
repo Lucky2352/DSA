@@ -127,6 +127,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 954 | Maximum Sum Circular Subarray | [`954-maximum-sum-circular-subarray`](./954-maximum-sum-circular-subarray) |
 | 977 | Distinct Subsequences Ii | [`977-distinct-subsequences-ii`](./977-distinct-subsequences-ii) |
 | 1029 | Vertical Order Traversal Of A Binary Tree | [`1029-vertical-order-traversal-of-a-binary-tree`](./1029-vertical-order-traversal-of-a-binary-tree) |
+| 1035 | Cousins In Binary Tree | [`1035-cousins-in-binary-tree`](./1035-cousins-in-binary-tree) |
 | 1036 | Rotting Oranges | [`1036-rotting-oranges`](./1036-rotting-oranges) |
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
 | 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
