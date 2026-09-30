@@ -145,6 +145,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1646 | Kth Missing Positive Number | [`1646-kth-missing-positive-number`](./1646-kth-missing-positive-number) |
 | 1670 | Patients With A Condition | [`1670-patients-with-a-condition`](./1670-patients-with-a-condition) |
 | 1675 | Magnetic Force Between Two Balls | [`1675-magnetic-force-between-two-balls`](./1675-magnetic-force-between-two-balls) |
+| 1724 | Customer Who Visited But Did Not Make Any Transactions | [`1724-customer-who-visited-but-did-not-make-any-transactions`](./1724-customer-who-visited-but-did-not-make-any-transactions) |
 | 1731 | Even Odd Tree | [`1731-even-odd-tree`](./1731-even-odd-tree) |
 | 1737 | Maximum Nesting Depth Of The Parentheses | [`1737-maximum-nesting-depth-of-the-parentheses`](./1737-maximum-nesting-depth-of-the-parentheses) |
 | 1776 | Minimum Operations To Reduce X To Zero | [`1776-minimum-operations-to-reduce-x-to-zero`](./1776-minimum-operations-to-reduce-x-to-zero) |
