@@ -91,6 +91,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
 | 515 | Find Largest Value In Each Tree Row | [`515-find-largest-value-in-each-tree-row`](./515-find-largest-value-in-each-tree-row) |
 | 516 | Longest Palindromic Subsequence | [`516-longest-palindromic-subsequence`](./516-longest-palindromic-subsequence) |
+| 530 | Minimum Absolute Difference In Bst | [`530-minimum-absolute-difference-in-bst`](./530-minimum-absolute-difference-in-bst) |
 | 539 | Minimum Time Difference | [`539-minimum-time-difference`](./539-minimum-time-difference) |
 | 540 | Single Element In A Sorted Array | [`540-single-element-in-a-sorted-array`](./540-single-element-in-a-sorted-array) |
 | 542 | 01 Matrix | [`542-01-matrix`](./542-01-matrix) |
