@@ -46,6 +46,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 101 | Symmetric Tree | [`101-symmetric-tree`](./101-symmetric-tree) |
 | 102 | Binary Tree Level Order Traversal | [`102-binary-tree-level-order-traversal`](./102-binary-tree-level-order-traversal) |
 | 103 | Binary Tree Zigzag Level Order Traversal | [`103-binary-tree-zigzag-level-order-traversal`](./103-binary-tree-zigzag-level-order-traversal) |
+| 108 | Convert Sorted Array To Binary Search Tree | [`108-convert-sorted-array-to-binary-search-tree`](./108-convert-sorted-array-to-binary-search-tree) |
 | 110 | Balanced Binary Tree | [`110-balanced-binary-tree`](./110-balanced-binary-tree) |
 | 111 | Minimum Depth Of Binary Tree | [`111-minimum-depth-of-binary-tree`](./111-minimum-depth-of-binary-tree) |
 | 112 | Path Sum | [`112-path-sum`](./112-path-sum) |
