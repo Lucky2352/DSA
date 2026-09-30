@@ -98,6 +98,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 543 | Diameter Of Binary Tree | [`543-diameter-of-binary-tree`](./543-diameter-of-binary-tree) |
 | 547 | Number Of Provinces | [`547-number-of-provinces`](./547-number-of-provinces) |
 | 567 | Permutation In String | [`567-permutation-in-string`](./567-permutation-in-string) |
+| 570 | Managers With At Least 5 Direct Reports | [`570-managers-with-at-least-5-direct-reports`](./570-managers-with-at-least-5-direct-reports) |
 | 577 | Employee Bonus | [`577-employee-bonus`](./577-employee-bonus) |
 | 584 | Find Customer Referee | [`584-find-customer-referee`](./584-find-customer-referee) |
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
