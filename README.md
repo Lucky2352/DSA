@@ -12,6 +12,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4 | Median Of Two Sorted Arrays | [`4-median-of-two-sorted-arrays`](./4-median-of-two-sorted-arrays) |
 | 16 | 3sum Closest | [`16-3sum-closest`](./16-3sum-closest) |
 | 17 | Letter Combinations Of A Phone Number | [`17-letter-combinations-of-a-phone-number`](./17-letter-combinations-of-a-phone-number) |
+| 20 | Valid Parentheses | [`20-valid-parentheses`](./20-valid-parentheses) |
 | 22 | Generate Parentheses | [`22-generate-parentheses`](./22-generate-parentheses) |
 | 23 | Merge K Sorted Lists | [`23-merge-k-sorted-lists`](./23-merge-k-sorted-lists) |
 | 24 | Swap Nodes In Pairs | [`24-swap-nodes-in-pairs`](./24-swap-nodes-in-pairs) |
