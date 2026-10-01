@@ -142,6 +142,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1217 | Relative Sort Array | [`1217-relative-sort-array`](./1217-relative-sort-array) |
 | 1236 | N Th Tribonacci Number | [`1236-n-th-tribonacci-number`](./1236-n-th-tribonacci-number) |
 | 1258 | Article Views I | [`1258-article-views-i`](./1258-article-views-i) |
+| 1285 | Balance A Binary Search Tree | [`1285-balance-a-binary-search-tree`](./1285-balance-a-binary-search-tree) |
 | 1296 | Kth Ancestor Of A Tree Node | [`1296-kth-ancestor-of-a-tree-node`](./1296-kth-ancestor-of-a-tree-node) |
 | 1298 | Reverse Substrings Between Each Pair Of Parentheses | [`1298-reverse-substrings-between-each-pair-of-parentheses`](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | 1354 | Find Players With Zero Or One Losses | [`1354-find-players-with-zero-or-one-losses`](./1354-find-players-with-zero-or-one-losses) |
