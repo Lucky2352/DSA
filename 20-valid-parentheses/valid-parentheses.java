@@ -6,13 +6,10 @@ class Solution {
             if(ch == '(' || ch == '[' || ch == '{'){
                 st.push(ch);
             }else {
-                if(st.isEmpty())return false;
-                else if(ch == ')' && st.peek() != '(')return false;
-                else if(ch == ']' && st.peek() != '[')return false;
-                else if(ch == '}' && st.peek() != '{')return false;
-                else{
-                    st.pop();
-                }
+                if(st.isEmpty()) return false;
+                if(ch == ')' && st.pop() != '(') return false;
+                if(ch == ']' && st.pop() != '[') return false;
+                if(ch == '}' && st.pop() != '{') return false;
             }
         }
         return st.isEmpty();
