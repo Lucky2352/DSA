@@ -106,6 +106,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 594 | Longest Harmonious Subsequence | [`594-longest-harmonious-subsequence`](./594-longest-harmonious-subsequence) |
 | 595 | Big Countries | [`595-big-countries`](./595-big-countries) |
 | 620 | Not Boring Movies | [`620-not-boring-movies`](./620-not-boring-movies) |
+| 623 | Add One Row To Tree | [`623-add-one-row-to-tree`](./623-add-one-row-to-tree) |
 | 662 | Maximum Width Of Binary Tree | [`662-maximum-width-of-binary-tree`](./662-maximum-width-of-binary-tree) |
 | 669 | Trim A Binary Search Tree | [`669-trim-a-binary-search-tree`](./669-trim-a-binary-search-tree) |
 | 677 | Map Sum Pairs | [`677-map-sum-pairs`](./677-map-sum-pairs) |
