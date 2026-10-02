@@ -1,19 +1,19 @@
 class Solution {
-    public static void generate(int n,List<String> ans,String s,int open,int close){
-        if(s.length() == 2 *n){
-            ans.add(s);
+    List<String> list = new ArrayList<>();
+    public void generate(int n,int open,int close,String s){
+        if(open == n && close == n) {
+            list.add(s);
             return;
         }
         if(open < n){
-            generate(n,ans,s + "(",open + 1,close);
+            generate(n,open + 1,close,s + '(');
         }
         if(close < open){
-            generate(n,ans,s + ")",open,close + 1);
+            generate(n,open,close + 1,s + ')');
         }
     }
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-        generate(n,ans,"",0,0);
-        return ans;
+        generate(n,0,0,"");
+        return list;
     }
 }
