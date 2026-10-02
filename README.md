@@ -10,6 +10,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1 | Two Sum | [`1-two-sum`](./1-two-sum) |
 | 3 | Longest Substring Without Repeating Characters | [`3-longest-substring-without-repeating-characters`](./3-longest-substring-without-repeating-characters) |
 | 4 | Median Of Two Sorted Arrays | [`4-median-of-two-sorted-arrays`](./4-median-of-two-sorted-arrays) |
+| 6 | Zigzag Conversion | [`6-zigzag-conversion`](./6-zigzag-conversion) |
 | 16 | 3sum Closest | [`16-3sum-closest`](./16-3sum-closest) |
 | 17 | Letter Combinations Of A Phone Number | [`17-letter-combinations-of-a-phone-number`](./17-letter-combinations-of-a-phone-number) |
 | 20 | Valid Parentheses | [`20-valid-parentheses`](./20-valid-parentheses) |
