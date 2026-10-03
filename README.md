@@ -19,6 +19,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 24 | Swap Nodes In Pairs | [`24-swap-nodes-in-pairs`](./24-swap-nodes-in-pairs) |
 | 25 | Reverse Nodes In K Group | [`25-reverse-nodes-in-k-group`](./25-reverse-nodes-in-k-group) |
 | 26 | Remove Duplicates From Sorted Array | [`26-remove-duplicates-from-sorted-array`](./26-remove-duplicates-from-sorted-array) |
+| 32 | Longest Valid Parentheses | [`32-longest-valid-parentheses`](./32-longest-valid-parentheses) |
 | 33 | Search In Rotated Sorted Array | [`33-search-in-rotated-sorted-array`](./33-search-in-rotated-sorted-array) |
 | 36 | Valid Sudoku | [`36-valid-sudoku`](./36-valid-sudoku) |
 | 39 | Combination Sum | [`39-combination-sum`](./39-combination-sum) |
