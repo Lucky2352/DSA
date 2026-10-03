@@ -26,7 +26,21 @@ class Solution {
             adj.get(v).add(u);
         }
         boolean[] visited = new boolean[n];
-        dfs(source, destination, adj, visited);
-        return flag;
+        // dfs(source, destination, adj, visited);
+        // return flag;
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(source);
+        visited[source] = true;
+        while(!q.isEmpty()){
+            int temp = q.poll();
+            if(temp == destination)return true;
+            for(int i = 0;i<adj.get(temp).size();i++){
+                if(!visited[adj.get(temp).get(i)]){
+                    q.offer(adj.get(temp).get(i));
+                    visited[adj.get(temp).get(i)] = true;
+                }
+            }
+        }
+        return false;
     }
 }
