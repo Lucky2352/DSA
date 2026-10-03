@@ -139,6 +139,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1036 | Rotting Oranges | [`1036-rotting-oranges`](./1036-rotting-oranges) |
 | 1046 | Max Consecutive Ones Iii | [`1046-max-consecutive-ones-iii`](./1046-max-consecutive-ones-iii) |
 | 1056 | Capacity To Ship Packages Within D Days | [`1056-capacity-to-ship-packages-within-d-days`](./1056-capacity-to-ship-packages-within-d-days) |
+| 1073 | Number Of Enclaves | [`1073-number-of-enclaves`](./1073-number-of-enclaves) |
 | 1078 | Remove Outermost Parentheses | [`1078-remove-outermost-parentheses`](./1078-remove-outermost-parentheses) |
 | 1114 | Binary Search Tree To Greater Sum Tree | [`1114-binary-search-tree-to-greater-sum-tree`](./1114-binary-search-tree-to-greater-sum-tree) |
 | 1116 | Maximum Level Sum Of A Binary Tree | [`1116-maximum-level-sum-of-a-binary-tree`](./1116-maximum-level-sum-of-a-binary-tree) |
