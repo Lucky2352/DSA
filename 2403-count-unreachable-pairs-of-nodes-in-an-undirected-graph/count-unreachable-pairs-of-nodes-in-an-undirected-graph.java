@@ -17,6 +17,17 @@ class Solution {
             }
         }
     }
+    void dfs(int curr,ArrayList<ArrayList<Integer>> adj, boolean vis[]){
+
+        for (Integer n : adj.get(curr)){
+                if (!vis[n]) {
+                    vis[n]=true;
+                    globalCount++;
+                    dfs(n,adj,vis);
+                }
+        }
+
+    }
     public long countPairs(int n, int[][] edges) {
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
         for(int i = 0; i < n; i++) {
@@ -34,12 +45,27 @@ class Solution {
         long prev = 0;
         long sum = 0;
         boolean visited[] = new boolean[n];
-        for(int i = 0;i < n;i++){
+        // for(int i = 0;i < n;i++){
+        //     if(!visited[i]){
+        //     bfs(i,adj,visited);
+        //     }
+        //     sum += (globalCount - prev) * (n - globalCount);
+        //     prev = globalCount;
+        // }
+
+        for(int i=0;i<n;i++){
             if(!visited[i]){
-            bfs(i,adj,visited);
+                visited[i]=true;
+                globalCount++;
+                dfs(i,adj,visited);
+            }else{
+                continue;
             }
-            sum += (globalCount - prev) * (n - globalCount);
-            prev = globalCount;
+
+            
+            long curr=globalCount-prev;
+            sum+=(n-globalCount)*curr;
+            prev=globalCount;
         }
         return sum;
     }
