@@ -172,6 +172,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 2000 | Minimum Speed To Arrive On Time | [`2000-minimum-speed-to-arrive-on-time`](./2000-minimum-speed-to-arrive-on-time) |
 | 2039 | Sum Game | [`2039-sum-game`](./2039-sum-game) |
 | 2050 | Count Good Numbers | [`2050-count-good-numbers`](./2050-count-good-numbers) |
+| 2121 | Find If Path Exists In Graph | [`2121-find-if-path-exists-in-graph`](./2121-find-if-path-exists-in-graph) |
 | 2188 | Minimized Maximum Of Products Distributed To Any Store | [`2188-minimized-maximum-of-products-distributed-to-any-store`](./2188-minimized-maximum-of-products-distributed-to-any-store) |
 | 2227 | Sum Of Subarray Ranges | [`2227-sum-of-subarray-ranges`](./2227-sum-of-subarray-ranges) |
 | 2294 | Minimum Time To Complete Trips | [`2294-minimum-time-to-complete-trips`](./2294-minimum-time-to-complete-trips) |
