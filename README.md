@@ -114,6 +114,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 662 | Maximum Width Of Binary Tree | [`662-maximum-width-of-binary-tree`](./662-maximum-width-of-binary-tree) |
 | 669 | Trim A Binary Search Tree | [`669-trim-a-binary-search-tree`](./669-trim-a-binary-search-tree) |
 | 677 | Map Sum Pairs | [`677-map-sum-pairs`](./677-map-sum-pairs) |
+| 678 | Valid Parenthesis String | [`678-valid-parenthesis-string`](./678-valid-parenthesis-string) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
 | 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
 | 719 | Find K Th Smallest Pair Distance | [`719-find-k-th-smallest-pair-distance`](./719-find-k-th-smallest-pair-distance) |
