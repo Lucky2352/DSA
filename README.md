@@ -127,6 +127,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 864 | Image Overlap | [`864-image-overlap`](./864-image-overlap) |
 | 866 | Rectangle Overlap | [`866-rectangle-overlap`](./866-rectangle-overlap) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
+| 886 | Score Of Parentheses | [`886-score-of-parentheses`](./886-score-of-parentheses) |
 | 893 | All Nodes Distance K In Binary Tree | [`893-all-nodes-distance-k-in-binary-tree`](./893-all-nodes-distance-k-in-binary-tree) |
 | 907 | Koko Eating Bananas | [`907-koko-eating-bananas`](./907-koko-eating-bananas) |
 | 937 | Online Stock Span | [`937-online-stock-span`](./937-online-stock-span) |
