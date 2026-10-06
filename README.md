@@ -134,6 +134,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 940 | Fruit Into Baskets | [`940-fruit-into-baskets`](./940-fruit-into-baskets) |
 | 943 | Sum Of Subarray Minimums | [`943-sum-of-subarray-minimums`](./943-sum-of-subarray-minimums) |
 | 954 | Maximum Sum Circular Subarray | [`954-maximum-sum-circular-subarray`](./954-maximum-sum-circular-subarray) |
+| 957 | Minimum Add To Make Parentheses Valid | [`957-minimum-add-to-make-parentheses-valid`](./957-minimum-add-to-make-parentheses-valid) |
 | 975 | Range Sum Of Bst | [`975-range-sum-of-bst`](./975-range-sum-of-bst) |
 | 977 | Distinct Subsequences Ii | [`977-distinct-subsequences-ii`](./977-distinct-subsequences-ii) |
 | 1029 | Vertical Order Traversal Of A Binary Tree | [`1029-vertical-order-traversal-of-a-binary-tree`](./1029-vertical-order-traversal-of-a-binary-tree) |
