@@ -126,6 +126,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
 | 783 | Search In A Binary Search Tree | [`783-search-in-a-binary-search-tree`](./783-search-in-a-binary-search-tree) |
 | 784 | Insert Into A Binary Search Tree | [`784-insert-into-a-binary-search-tree`](./784-insert-into-a-binary-search-tree) |
+| 801 | Is Graph Bipartite | [`801-is-graph-bipartite`](./801-is-graph-bipartite) |
 | 864 | Image Overlap | [`864-image-overlap`](./864-image-overlap) |
 | 866 | Rectangle Overlap | [`866-rectangle-overlap`](./866-rectangle-overlap) |
 | 882 | Peak Index In A Mountain Array | [`882-peak-index-in-a-mountain-array`](./882-peak-index-in-a-mountain-array) |
