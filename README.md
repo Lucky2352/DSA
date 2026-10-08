@@ -211,6 +211,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4248 | Count Commas In Range Ii | [`4248-count-commas-in-range-ii`](./4248-count-commas-in-range-ii) |
 | 4256 | Construct Uniform Parity Array I | [`4256-construct-uniform-parity-array-i`](./4256-construct-uniform-parity-array-i) |
 | 4258 | Construct Uniform Parity Array Ii | [`4258-construct-uniform-parity-array-ii`](./4258-construct-uniform-parity-array-ii) |
+| 4271 | Find The Degree Of Each Vertex | [`4271-find-the-degree-of-each-vertex`](./4271-find-the-degree-of-each-vertex) |
 | 4284 | Smallest Stable Index I | [`4284-smallest-stable-index-i`](./4284-smallest-stable-index-i) |
 | 4375 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | [`4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights`](./4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | 4378 | Nearest Available Drone | [`4378-nearest-available-drone`](./4378-nearest-available-drone) |
