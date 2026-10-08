@@ -117,6 +117,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 677 | Map Sum Pairs | [`677-map-sum-pairs`](./677-map-sum-pairs) |
 | 678 | Valid Parenthesis String | [`678-valid-parenthesis-string`](./678-valid-parenthesis-string) |
 | 680 | Valid Palindrome Ii | [`680-valid-palindrome-ii`](./680-valid-palindrome-ii) |
+| 684 | Redundant Connection | [`684-redundant-connection`](./684-redundant-connection) |
 | 686 | Repeated String Match | [`686-repeated-string-match`](./686-repeated-string-match) |
 | 719 | Find K Th Smallest Pair Distance | [`719-find-k-th-smallest-pair-distance`](./719-find-k-th-smallest-pair-distance) |
 | 720 | Longest Word In Dictionary | [`720-longest-word-in-dictionary`](./720-longest-word-in-dictionary) |
