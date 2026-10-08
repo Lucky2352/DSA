@@ -150,6 +150,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1114 | Binary Search Tree To Greater Sum Tree | [`1114-binary-search-tree-to-greater-sum-tree`](./1114-binary-search-tree-to-greater-sum-tree) |
 | 1116 | Maximum Level Sum Of A Binary Tree | [`1116-maximum-level-sum-of-a-binary-tree`](./1116-maximum-level-sum-of-a-binary-tree) |
 | 1153 | Product Sales Analysis I | [`1153-product-sales-analysis-i`](./1153-product-sales-analysis-i) |
+| 1171 | Shortest Path In Binary Matrix | [`1171-shortest-path-in-binary-matrix`](./1171-shortest-path-in-binary-matrix) |
 | 1208 | Maximum Nesting Depth Of Two Valid Parentheses Strings | [`1208-maximum-nesting-depth-of-two-valid-parentheses-strings`](./1208-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | 1217 | Relative Sort Array | [`1217-relative-sort-array`](./1217-relative-sort-array) |
 | 1236 | N Th Tribonacci Number | [`1236-n-th-tribonacci-number`](./1236-n-th-tribonacci-number) |
