@@ -166,6 +166,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1544 | Count Good Nodes In Binary Tree | [`1544-count-good-nodes-in-binary-tree`](./1544-count-good-nodes-in-binary-tree) |
 | 1620 | Check If Array Pairs Are Divisible By K | [`1620-check-if-array-pairs-are-divisible-by-k`](./1620-check-if-array-pairs-are-divisible-by-k) |
 | 1646 | Kth Missing Positive Number | [`1646-kth-missing-positive-number`](./1646-kth-missing-positive-number) |
+| 1648 | Minimum Insertions To Balance A Parentheses String | [`1648-minimum-insertions-to-balance-a-parentheses-string`](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | 1670 | Patients With A Condition | [`1670-patients-with-a-condition`](./1670-patients-with-a-condition) |
 | 1675 | Magnetic Force Between Two Balls | [`1675-magnetic-force-between-two-balls`](./1675-magnetic-force-between-two-balls) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | [`1724-customer-who-visited-but-did-not-make-any-transactions`](./1724-customer-who-visited-but-did-not-make-any-transactions) |
