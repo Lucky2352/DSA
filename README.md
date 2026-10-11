@@ -124,6 +124,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 733 | Flood Fill | [`733-flood-fill`](./733-flood-fill) |
 | 735 | Asteroid Collision | [`735-asteroid-collision`](./735-asteroid-collision) |
 | 742 | To Lower Case | [`742-to-lower-case`](./742-to-lower-case) |
+| 753 | Open The Lock | [`753-open-the-lock`](./753-open-the-lock) |
 | 783 | Search In A Binary Search Tree | [`783-search-in-a-binary-search-tree`](./783-search-in-a-binary-search-tree) |
 | 784 | Insert Into A Binary Search Tree | [`784-insert-into-a-binary-search-tree`](./784-insert-into-a-binary-search-tree) |
 | 801 | Is Graph Bipartite | [`801-is-graph-bipartite`](./801-is-graph-bipartite) |
