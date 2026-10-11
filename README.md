@@ -140,6 +140,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 957 | Minimum Add To Make Parentheses Valid | [`957-minimum-add-to-make-parentheses-valid`](./957-minimum-add-to-make-parentheses-valid) |
 | 975 | Range Sum Of Bst | [`975-range-sum-of-bst`](./975-range-sum-of-bst) |
 | 977 | Distinct Subsequences Ii | [`977-distinct-subsequences-ii`](./977-distinct-subsequences-ii) |
+| 1019 | Squares Of A Sorted Array | [`1019-squares-of-a-sorted-array`](./1019-squares-of-a-sorted-array) |
 | 1029 | Vertical Order Traversal Of A Binary Tree | [`1029-vertical-order-traversal-of-a-binary-tree`](./1029-vertical-order-traversal-of-a-binary-tree) |
 | 1035 | Cousins In Binary Tree | [`1035-cousins-in-binary-tree`](./1035-cousins-in-binary-tree) |
 | 1036 | Rotting Oranges | [`1036-rotting-oranges`](./1036-rotting-oranges) |
