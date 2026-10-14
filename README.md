@@ -211,6 +211,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 3999 | Minimum Operations To Transform String | [`3999-minimum-operations-to-transform-string`](./3999-minimum-operations-to-transform-string) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4080 | Smallest Missing Multiple Of K | [`4080-smallest-missing-multiple-of-k`](./4080-smallest-missing-multiple-of-k) |
+| 4084 | Maximize Sum Of Squares Of Digits | [`4084-maximize-sum-of-squares-of-digits`](./4084-maximize-sum-of-squares-of-digits) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | [`4119-minimum-distance-between-three-equal-elements-ii`](./4119-minimum-distance-between-three-equal-elements-ii) |
 | 4245 | Count Commas In Range | [`4245-count-commas-in-range`](./4245-count-commas-in-range) |
