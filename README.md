@@ -198,6 +198,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 2793 | Count The Number Of Complete Components | [`2793-count-the-number-of-complete-components`](./2793-count-the-number-of-complete-components) |
 | 2844 | Sum Of Squares Of Special Elements | [`2844-sum-of-squares-of-special-elements`](./2844-sum-of-squares-of-special-elements) |
 | 3081 | Minimum Array Length After Pair Removals | [`3081-minimum-array-length-after-pair-removals`](./3081-minimum-array-length-after-pair-removals) |
+| 3163 | Subarrays Distinct Element Sum Of Squares I | [`3163-subarrays-distinct-element-sum-of-squares-i`](./3163-subarrays-distinct-element-sum-of-squares-i) |
 | 3212 | Count The Number Of Good Partitions | [`3212-count-the-number-of-good-partitions`](./3212-count-the-number-of-good-partitions) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | [`3225-length-of-longest-subarray-with-at-most-k-frequency`](./3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | 3236 | Smallest Missing Integer Greater Than Sequential Prefix Sum | [`3236-smallest-missing-integer-greater-than-sequential-prefix-sum`](./3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
