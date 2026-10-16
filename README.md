@@ -22,6 +22,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 32 | Longest Valid Parentheses | [`32-longest-valid-parentheses`](./32-longest-valid-parentheses) |
 | 33 | Search In Rotated Sorted Array | [`33-search-in-rotated-sorted-array`](./33-search-in-rotated-sorted-array) |
 | 36 | Valid Sudoku | [`36-valid-sudoku`](./36-valid-sudoku) |
+| 38 | Count And Say | [`38-count-and-say`](./38-count-and-say) |
 | 39 | Combination Sum | [`39-combination-sum`](./39-combination-sum) |
 | 42 | Trapping Rain Water | [`42-trapping-rain-water`](./42-trapping-rain-water) |
 | 43 | Multiply Strings | [`43-multiply-strings`](./43-multiply-strings) |
