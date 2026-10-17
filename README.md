@@ -72,6 +72,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 200 | Number Of Islands | [`200-number-of-islands`](./200-number-of-islands) |
 | 202 | Happy Number | [`202-happy-number`](./202-happy-number) |
 | 207 | Course Schedule | [`207-course-schedule`](./207-course-schedule) |
+| 210 | Course Schedule Ii | [`210-course-schedule-ii`](./210-course-schedule-ii) |
 | 215 | Kth Largest Element In An Array | [`215-kth-largest-element-in-an-array`](./215-kth-largest-element-in-an-array) |
 | 220 | Contains Duplicate Iii | [`220-contains-duplicate-iii`](./220-contains-duplicate-iii) |
 | 222 | Count Complete Tree Nodes | [`222-count-complete-tree-nodes`](./222-count-complete-tree-nodes) |
