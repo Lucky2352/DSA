@@ -32,6 +32,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 50 | Powx N | [`50-powx-n`](./50-powx-n) |
 | 51 | N Queens | [`51-n-queens`](./51-n-queens) |
 | 52 | N Queens Ii | [`52-n-queens-ii`](./52-n-queens-ii) |
+| 54 | Spiral Matrix | [`54-spiral-matrix`](./54-spiral-matrix) |
 | 60 | Permutation Sequence | [`60-permutation-sequence`](./60-permutation-sequence) |
 | 62 | Unique Paths | [`62-unique-paths`](./62-unique-paths) |
 | 64 | Minimum Path Sum | [`64-minimum-path-sum`](./64-minimum-path-sum) |
