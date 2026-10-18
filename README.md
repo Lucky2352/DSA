@@ -235,6 +235,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4415 | Count Values With Equally Spaced Occurrences I | [`4415-count-values-with-equally-spaced-occurrences-i`](./4415-count-values-with-equally-spaced-occurrences-i) |
 | 4418 | Number Of Intersecting Interval Pairs I | [`4418-number-of-intersecting-interval-pairs-i`](./4418-number-of-intersecting-interval-pairs-i) |
 | 4421 | Minimum Queen Moves To Reach Target | [`4421-minimum-queen-moves-to-reach-target`](./4421-minimum-queen-moves-to-reach-target) |
+| 4456 | Last Visited Cell In A Directional Grid | [`4456-last-visited-cell-in-a-directional-grid`](./4456-last-visited-cell-in-a-directional-grid) |
 <!-- PROBLEMS_TABLE_END -->
 
 ---
