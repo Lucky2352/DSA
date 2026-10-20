@@ -1,33 +1,34 @@
 class Solution {
-    public static void dfs(int node,boolean visited[],ArrayList<ArrayList<Integer>> adj){
-        visited[node] = true;
-        for(int val : adj.get(node)){
-            if(!visited[val]){
-                dfs(val,visited,adj);
-            }
-        }
-    }
-    public int findCircleNum(int[][] matrix) {
-        int n = matrix.length;
-        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
+    public int findCircleNum(int[][] ed) {
+        List<List<Integer>> adj = new ArrayList<>();
+        for(int i = 0;i<=ed.length;i++){
             adj.add(new ArrayList<>());
         }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < n; j++) {
-                if (matrix[i][j] == 1) {
-                    adj.get(i).add(j);
+        for(int i = 0;i<ed.length;i++){
+            for(int j = 0;j<ed[0].length;j++){
+                if(ed[i][j] == 1 && i != j){
+                    adj.get(i + 1).add(j+1);
                 }
             }
         }
-        int len = adj.size();
+        Queue<Integer> q = new LinkedList<>();
         int count = 0;
-        boolean visited[] = new boolean[len+1];
-        for(int i = 0;i<len;i++){
+        boolean visited[] = new boolean[ed.length +1];
+        for(int i = 1;i<=ed.length;i++){
             if(!visited[i]){
+                visited[i] = true;
+                q.offer(i);
                 count++;
-                dfs(i,visited,adj);
-            }       
+            }
+            while(!q.isEmpty()){
+                int temp = q.poll();
+                for(int val : adj.get(temp)){
+                    if(!visited[val]){
+                        visited[val] = true;
+                        q.offer(val);
+                    }
+                }
+            }
         }
         return count;
     }
