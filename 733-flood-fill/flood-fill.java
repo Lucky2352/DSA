@@ -1,43 +1,45 @@
-class Solution {
-    static class pair {
-        int row;
-        int col;
-        pair(int row, int col) {
-            this.row = row;
-            this.col = col;
-        }
+
+class pair {
+    int row;
+    int col;
+
+    public pair(int row, int col) {
+        this.row = row;
+        this.col = col;
     }
-    public int[][] floodFill(int[][] grid, int sr, int sc, int color) {
-        int n = grid.length;
-        int m = grid[0].length;
-        Queue<pair> q = new LinkedList<>();
-        int oldColor = grid[sr][sc];
-        if (oldColor == color) {
-            return grid;
+}
+class Solution {
+    public int[][] floodFill(int[][] image, int sr, int sc, int color) {
+        int n = image.length;
+        int m = image[0].length;
+        int original = image[sr][sc];
+        if (original == color) {
+            return image;
         }
-        grid[sr][sc] = color;
+        Queue<pair> q = new LinkedList<>();
         q.offer(new pair(sr, sc));
+        image[sr][sc] = color;
         while (!q.isEmpty()) {
             pair temp = q.poll();
             int row = temp.row;
             int col = temp.col;
-            if (row - 1 >= 0 && grid[row - 1][col] == oldColor) {
-                grid[row - 1][col] = color;
+            if (row > 0 && image[row - 1][col] == original) {
+                image[row - 1][col] = color;
                 q.offer(new pair(row - 1, col));
             }
-            if (row + 1 < n && grid[row + 1][col] == oldColor) {
-                grid[row + 1][col] = color;
+            if (row < n - 1 && image[row + 1][col] == original) {
+                image[row + 1][col] = color;
                 q.offer(new pair(row + 1, col));
             }
-            if (col - 1 >= 0 && grid[row][col - 1] == oldColor) {
-                grid[row][col - 1] = color;
+            if (col > 0 && image[row][col - 1] == original) {
+                image[row][col - 1] = color;
                 q.offer(new pair(row, col - 1));
             }
-            if (col + 1 < m && grid[row][col + 1] == oldColor) {
-                grid[row][col + 1] = color;
+            if (col < m - 1 && image[row][col + 1] == original) {
+                image[row][col + 1] = color;
                 q.offer(new pair(row, col + 1));
             }
         }
-        return grid;
+        return image;
     }
 }
