@@ -225,6 +225,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4084 | Maximize Sum Of Squares Of Digits | [`4084-maximize-sum-of-squares-of-digits`](./4084-maximize-sum-of-squares-of-digits) |
 | 4107 | Find Missing Elements | [`4107-find-missing-elements`](./4107-find-missing-elements) |
 | 4119 | Minimum Distance Between Three Equal Elements Ii | [`4119-minimum-distance-between-three-equal-elements-ii`](./4119-minimum-distance-between-three-equal-elements-ii) |
+| 4220 | Minimum Operations To Sort A String | [`4220-minimum-operations-to-sort-a-string`](./4220-minimum-operations-to-sort-a-string) |
 | 4245 | Count Commas In Range | [`4245-count-commas-in-range`](./4245-count-commas-in-range) |
 | 4248 | Count Commas In Range Ii | [`4248-count-commas-in-range-ii`](./4248-count-commas-in-range-ii) |
 | 4256 | Construct Uniform Parity Array I | [`4256-construct-uniform-parity-array-i`](./4256-construct-uniform-parity-array-i) |
