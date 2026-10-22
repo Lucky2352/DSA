@@ -135,6 +135,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 784 | Insert Into A Binary Search Tree | [`784-insert-into-a-binary-search-tree`](./784-insert-into-a-binary-search-tree) |
 | 801 | Is Graph Bipartite | [`801-is-graph-bipartite`](./801-is-graph-bipartite) |
 | 803 | Cheapest Flights Within K Stops | [`803-cheapest-flights-within-k-stops`](./803-cheapest-flights-within-k-stops) |
+| 820 | Find Eventual Safe States | [`820-find-eventual-safe-states`](./820-find-eventual-safe-states) |
 | 832 | Binary Tree Pruning | [`832-binary-tree-pruning`](./832-binary-tree-pruning) |
 | 864 | Image Overlap | [`864-image-overlap`](./864-image-overlap) |
 | 866 | Rectangle Overlap | [`866-rectangle-overlap`](./866-rectangle-overlap) |
