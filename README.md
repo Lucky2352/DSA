@@ -206,6 +206,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 2403 | Count Unreachable Pairs Of Nodes In An Undirected Graph | [`2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph`](./2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | 2470 | Removing Stars From A String | [`2470-removing-stars-from-a-string`](./2470-removing-stars-from-a-string) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | [`2552-maximum-sum-of-distinct-subarrays-with-length-k`](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| 2665 | Minimum Time To Repair Cars | [`2665-minimum-time-to-repair-cars`](./2665-minimum-time-to-repair-cars) |
 | 2793 | Count The Number Of Complete Components | [`2793-count-the-number-of-complete-components`](./2793-count-the-number-of-complete-components) |
 | 2844 | Sum Of Squares Of Special Elements | [`2844-sum-of-squares-of-special-elements`](./2844-sum-of-squares-of-special-elements) |
 | 3081 | Minimum Array Length After Pair Removals | [`3081-minimum-array-length-after-pair-removals`](./3081-minimum-array-length-after-pair-removals) |
