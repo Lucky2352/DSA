@@ -184,6 +184,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1508 | Longest Happy Prefix | [`1508-longest-happy-prefix`](./1508-longest-happy-prefix) |
 | 1544 | Count Good Nodes In Binary Tree | [`1544-count-good-nodes-in-binary-tree`](./1544-count-good-nodes-in-binary-tree) |
 | 1620 | Check If Array Pairs Are Divisible By K | [`1620-check-if-array-pairs-are-divisible-by-k`](./1620-check-if-array-pairs-are-divisible-by-k) |
+| 1633 | Minimum Number Of Increments On Subarrays To Form A Target Array | [`1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array`](./1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | 1646 | Kth Missing Positive Number | [`1646-kth-missing-positive-number`](./1646-kth-missing-positive-number) |
 | 1648 | Minimum Insertions To Balance A Parentheses String | [`1648-minimum-insertions-to-balance-a-parentheses-string`](./1648-minimum-insertions-to-balance-a-parentheses-string) |
 | 1670 | Patients With A Condition | [`1670-patients-with-a-condition`](./1670-patients-with-a-condition) |
