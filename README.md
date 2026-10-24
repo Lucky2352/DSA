@@ -211,6 +211,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 2349 | Check If There Is A Valid Parentheses String Path | [`2349-check-if-there-is-a-valid-parentheses-string-path`](./2349-check-if-there-is-a-valid-parentheses-string-path) |
 | 2403 | Count Unreachable Pairs Of Nodes In An Undirected Graph | [`2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph`](./2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | 2470 | Removing Stars From A String | [`2470-removing-stars-from-a-string`](./2470-removing-stars-from-a-string) |
+| 2496 | Count Days Spent Together | [`2496-count-days-spent-together`](./2496-count-days-spent-together) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | [`2552-maximum-sum-of-distinct-subarrays-with-length-k`](./2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | 2665 | Minimum Time To Repair Cars | [`2665-minimum-time-to-repair-cars`](./2665-minimum-time-to-repair-cars) |
 | 2732 | Counter | [`2732-counter`](./2732-counter) |
