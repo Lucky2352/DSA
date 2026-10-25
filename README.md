@@ -175,6 +175,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 1296 | Kth Ancestor Of A Tree Node | [`1296-kth-ancestor-of-a-tree-node`](./1296-kth-ancestor-of-a-tree-node) |
 | 1298 | Reverse Substrings Between Each Pair Of Parentheses | [`1298-reverse-substrings-between-each-pair-of-parentheses`](./1298-reverse-substrings-between-each-pair-of-parentheses) |
 | 1354 | Find Players With Zero Or One Losses | [`1354-find-players-with-zero-or-one-losses`](./1354-find-players-with-zero-or-one-losses) |
+| 1380 | Number Of Closed Islands | [`1380-number-of-closed-islands`](./1380-number-of-closed-islands) |
 | 1428 | Jump Game Iii | [`1428-jump-game-iii`](./1428-jump-game-iii) |
 | 1442 | Number Of Operations To Make Network Connected | [`1442-number-of-operations-to-make-network-connected`](./1442-number-of-operations-to-make-network-connected) |
 | 1444 | Number Of Steps To Reduce A Number To Zero | [`1444-number-of-steps-to-reduce-a-number-to-zero`](./1444-number-of-steps-to-reduce-a-number-to-zero) |
