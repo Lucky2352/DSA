@@ -12,7 +12,7 @@ class Solution {
             recursion(i,target - nums[i],list,ans,nums);
             list.remove(list.size() - 1);
         }
-        recursion(i+1,target,list,ans,nums);
+        recursion(i + 1,target,list,ans,nums);
     }
     public List<List<Integer>> combinationSum(int[] nums, int target) {
         List<List<Integer>> ans = new ArrayList<>();
