@@ -228,6 +228,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 3626 | Smallest Divisible Digit Product I | [`3626-smallest-divisible-digit-product-i`](./3626-smallest-divisible-digit-product-i) |
 | 3799 | Unique 3 Digit Even Numbers | [`3799-unique-3-digit-even-numbers`](./3799-unique-3-digit-even-numbers) |
 | 3811 | Reverse Degree Of A String | [`3811-reverse-degree-of-a-string`](./3811-reverse-degree-of-a-string) |
+| 3823 | Count Islands With Total Value Divisible By K | [`3823-count-islands-with-total-value-divisible-by-k`](./3823-count-islands-with-total-value-divisible-by-k) |
 | 3847 | Minimum Swaps To Sort By Digit Sum | [`3847-minimum-swaps-to-sort-by-digit-sum`](./3847-minimum-swaps-to-sort-by-digit-sum) |
 | 3869 | Smallest Index With Digit Sum Equal To Index | [`3869-smallest-index-with-digit-sum-equal-to-index`](./3869-smallest-index-with-digit-sum-equal-to-index) |
 | 3918 | Check Divisibility By Digit Sum And Product | [`3918-check-divisibility-by-digit-sum-and-product`](./3918-check-divisibility-by-digit-sum-and-product) |
