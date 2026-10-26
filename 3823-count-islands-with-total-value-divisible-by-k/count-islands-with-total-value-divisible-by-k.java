@@ -6,10 +6,10 @@ class Solution {
         if(i < 0 || i >= n || j < 0 || j >= m || grid[i][j] == 0)return;
         sum += grid[i][j];
         grid[i][j] = 0;
-        dfs(i + 1,j,grid);
-        dfs(i - 1,j,grid);
-        dfs(i,j + 1,grid);
         dfs(i,j - 1,grid);
+        dfs(i,j + 1,grid);
+        dfs(i - 1,j,grid);
+        dfs(i + 1,j,grid);
 
     }
     public int countIslands(int[][] grid, int k) {
