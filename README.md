@@ -62,6 +62,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 127 | Word Ladder | [`127-word-ladder`](./127-word-ladder) |
 | 129 | Sum Root To Leaf Numbers | [`129-sum-root-to-leaf-numbers`](./129-sum-root-to-leaf-numbers) |
 | 130 | Surrounded Regions | [`130-surrounded-regions`](./130-surrounded-regions) |
+| 131 | Palindrome Partitioning | [`131-palindrome-partitioning`](./131-palindrome-partitioning) |
 | 137 | Single Number Ii | [`137-single-number-ii`](./137-single-number-ii) |
 | 138 | Copy List With Random Pointer | [`138-copy-list-with-random-pointer`](./138-copy-list-with-random-pointer) |
 | 151 | Reverse Words In A String | [`151-reverse-words-in-a-string`](./151-reverse-words-in-a-string) |
