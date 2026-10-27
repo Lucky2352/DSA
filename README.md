@@ -88,6 +88,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 239 | Sliding Window Maximum | [`239-sliding-window-maximum`](./239-sliding-window-maximum) |
 | 257 | Binary Tree Paths | [`257-binary-tree-paths`](./257-binary-tree-paths) |
 | 279 | Perfect Squares | [`279-perfect-squares`](./279-perfect-squares) |
+| 282 | Expression Add Operators | [`282-expression-add-operators`](./282-expression-add-operators) |
 | 297 | Serialize And Deserialize Binary Tree | [`297-serialize-and-deserialize-binary-tree`](./297-serialize-and-deserialize-binary-tree) |
 | 300 | Longest Increasing Subsequence | [`300-longest-increasing-subsequence`](./300-longest-increasing-subsequence) |
 | 344 | Reverse String | [`344-reverse-string`](./344-reverse-string) |
