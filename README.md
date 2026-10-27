@@ -248,6 +248,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 4258 | Construct Uniform Parity Array Ii | [`4258-construct-uniform-parity-array-ii`](./4258-construct-uniform-parity-array-ii) |
 | 4271 | Find The Degree Of Each Vertex | [`4271-find-the-degree-of-each-vertex`](./4271-find-the-degree-of-each-vertex) |
 | 4284 | Smallest Stable Index I | [`4284-smallest-stable-index-i`](./4284-smallest-stable-index-i) |
+| 4342 | Create Grid With Exactly One Path | [`4342-create-grid-with-exactly-one-path`](./4342-create-grid-with-exactly-one-path) |
 | 4375 | Minimize The Maximum Waiting Time At Synchronized Traffic Lights | [`4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights`](./4375-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | 4377 | Design Bus Seat Booking System | [`4377-design-bus-seat-booking-system`](./4377-design-bus-seat-booking-system) |
 | 4378 | Nearest Available Drone | [`4378-nearest-available-drone`](./4378-nearest-available-drone) |
