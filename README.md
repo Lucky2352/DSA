@@ -35,6 +35,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 54 | Spiral Matrix | [`54-spiral-matrix`](./54-spiral-matrix) |
 | 60 | Permutation Sequence | [`60-permutation-sequence`](./60-permutation-sequence) |
 | 62 | Unique Paths | [`62-unique-paths`](./62-unique-paths) |
+| 63 | Unique Paths Ii | [`63-unique-paths-ii`](./63-unique-paths-ii) |
 | 64 | Minimum Path Sum | [`64-minimum-path-sum`](./64-minimum-path-sum) |
 | 70 | Climbing Stairs | [`70-climbing-stairs`](./70-climbing-stairs) |
 | 74 | Search A 2d Matrix | [`74-search-a-2d-matrix`](./74-search-a-2d-matrix) |
