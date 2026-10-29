@@ -1,18 +1,17 @@
 class Solution {
-    int count = 0;
-    void recursion(int i,int target,int[] nums){
+    int recursion(int i,int target,int[] nums){
         if(i == nums.length){
             if(target == 0){
-                count++;
+                return 1;
             }
-            return;
+            return 0;
         }
-        recursion(i+1,target - nums[i],nums);
-        recursion(i+1,target + nums[i],nums);
+        int left = recursion(i+1,target - nums[i],nums);
+        int right = recursion(i+1,target + nums[i],nums);
+        return left + right;
         
     }
     public int findTargetSumWays(int[] nums, int target) {
-        recursion(0,target,nums);
-        return count;
+        return recursion(0,target,nums);
     }
 }
