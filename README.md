@@ -93,6 +93,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 282 | Expression Add Operators | [`282-expression-add-operators`](./282-expression-add-operators) |
 | 297 | Serialize And Deserialize Binary Tree | [`297-serialize-and-deserialize-binary-tree`](./297-serialize-and-deserialize-binary-tree) |
 | 300 | Longest Increasing Subsequence | [`300-longest-increasing-subsequence`](./300-longest-increasing-subsequence) |
+| 322 | Coin Change | [`322-coin-change`](./322-coin-change) |
 | 344 | Reverse String | [`344-reverse-string`](./344-reverse-string) |
 | 350 | Intersection Of Two Arrays Ii | [`350-intersection-of-two-arrays-ii`](./350-intersection-of-two-arrays-ii) |
 | 374 | Guess Number Higher Or Lower | [`374-guess-number-higher-or-lower`](./374-guess-number-higher-or-lower) |
