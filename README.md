@@ -156,6 +156,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 943 | Sum Of Subarray Minimums | [`943-sum-of-subarray-minimums`](./943-sum-of-subarray-minimums) |
 | 954 | Maximum Sum Circular Subarray | [`954-maximum-sum-circular-subarray`](./954-maximum-sum-circular-subarray) |
 | 957 | Minimum Add To Make Parentheses Valid | [`957-minimum-add-to-make-parentheses-valid`](./957-minimum-add-to-make-parentheses-valid) |
+| 967 | Minimum Falling Path Sum | [`967-minimum-falling-path-sum`](./967-minimum-falling-path-sum) |
 | 975 | Range Sum Of Bst | [`975-range-sum-of-bst`](./975-range-sum-of-bst) |
 | 977 | Distinct Subsequences Ii | [`977-distinct-subsequences-ii`](./977-distinct-subsequences-ii) |
 | 1013 | Fibonacci Number | [`1013-fibonacci-number`](./1013-fibonacci-number) |
