@@ -242,6 +242,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 3847 | Minimum Swaps To Sort By Digit Sum | [`3847-minimum-swaps-to-sort-by-digit-sum`](./3847-minimum-swaps-to-sort-by-digit-sum) |
 | 3869 | Smallest Index With Digit Sum Equal To Index | [`3869-smallest-index-with-digit-sum-equal-to-index`](./3869-smallest-index-with-digit-sum-equal-to-index) |
 | 3918 | Check Divisibility By Digit Sum And Product | [`3918-check-divisibility-by-digit-sum-and-product`](./3918-check-divisibility-by-digit-sum-and-product) |
+| 3938 | Twisted Mirror Path Count | [`3938-twisted-mirror-path-count`](./3938-twisted-mirror-path-count) |
 | 3999 | Minimum Operations To Transform String | [`3999-minimum-operations-to-transform-string`](./3999-minimum-operations-to-transform-string) |
 | 4033 | Longest Subsequence With Non Zero Bitwise Xor | [`4033-longest-subsequence-with-non-zero-bitwise-xor`](./4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | 4080 | Smallest Missing Multiple Of K | [`4080-smallest-missing-multiple-of-k`](./4080-smallest-missing-multiple-of-k) |
