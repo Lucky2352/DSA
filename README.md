@@ -106,6 +106,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 448 | Find All Numbers Disappeared In An Array | [`448-find-all-numbers-disappeared-in-an-array`](./448-find-all-numbers-disappeared-in-an-array) |
 | 449 | Serialize And Deserialize Bst | [`449-serialize-and-deserialize-bst`](./449-serialize-and-deserialize-bst) |
 | 450 | Delete Node In A Bst | [`450-delete-node-in-a-bst`](./450-delete-node-in-a-bst) |
+| 453 | Minimum Moves To Equal Array Elements | [`453-minimum-moves-to-equal-array-elements`](./453-minimum-moves-to-equal-array-elements) |
 | 454 | 4sum Ii | [`454-4sum-ii`](./454-4sum-ii) |
 | 494 | Target Sum | [`494-target-sum`](./494-target-sum) |
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
