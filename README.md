@@ -108,6 +108,7 @@ Each folder contains the Java solution file for that specific problem, along wit
 | 450 | Delete Node In A Bst | [`450-delete-node-in-a-bst`](./450-delete-node-in-a-bst) |
 | 453 | Minimum Moves To Equal Array Elements | [`453-minimum-moves-to-equal-array-elements`](./453-minimum-moves-to-equal-array-elements) |
 | 454 | 4sum Ii | [`454-4sum-ii`](./454-4sum-ii) |
+| 462 | Minimum Moves To Equal Array Elements Ii | [`462-minimum-moves-to-equal-array-elements-ii`](./462-minimum-moves-to-equal-array-elements-ii) |
 | 494 | Target Sum | [`494-target-sum`](./494-target-sum) |
 | 503 | Next Greater Element Ii | [`503-next-greater-element-ii`](./503-next-greater-element-ii) |
 | 515 | Find Largest Value In Each Tree Row | [`515-find-largest-value-in-each-tree-row`](./515-find-largest-value-in-each-tree-row) |
